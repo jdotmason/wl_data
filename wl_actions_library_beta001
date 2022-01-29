@@ -10,6 +10,16 @@
 "isCustom": true
 },
 {
+"id":"act0103",
+"name": "Note God's presence.",
+"summary": "Develop your awareness of God's presence by making a note of a moment when you became aware of God. It could be a person, place, or activity that reminded you of God, or it could be a palpable sense of God's presence with you.",
+"howTo":"- In a moment when you think of God or become aware of God's presence, make a note of it./r - What was God like, or what role was God playing, in that moment?/r - What did that moment tell you about your relationship with God?/r",
+"tips":"You could make a note right when a specific God-moment happens, or you could think back over your day of a moment when you were aware of the presence of God.",
+"styles": ["contemplative"],
+"topicIDs": ["God & You"],
+"isCustom": false
+},
+{
 "id": "act0102",
 "name": "Reflect on a cross",
 "summary": "Take some time to reflect on what a cross has symbolized to you over the years.",
