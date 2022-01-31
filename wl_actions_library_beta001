@@ -81,13 +81,33 @@
 "name": "Practice centering prayer",
 "summary": "Centering prayer is a quiet practice of gently returning your attention to God's presence as thoughts flow in and out of your mind.",
 "howTo": "Find a confortable, quiet place, and set a timer for 5, 10, or 20 minutes. /r/rThink of a word that makes you think of God’s presence. (e.g. God, Presence, Love, etc.) /r/rClose your eyes and quietly focus on the reality that God is present with you——all around you, and within you. Let the weight or fullness of God's presence fill your senses, similar to how it feels to close your eyes and point your face toward the sun./r/rAs your mind wanders, say your word, gently bring your attention back to God’s presence and let your thoughts float away, as if you're watching a ship sail out of view. ",
-"tips":"Centering prayer helps you work the inner 'muscle' of noticing God’s presence above all else. You may not feel different right away, but notice if your awareness of God increases at other points in your day as you practice centering prayer regularly over time.",
-"styles": ["contemplative", "mystical"],
+"tips":"Centering prayer helps you work the inner 'muscle' of noticing God’s presence above all else. You may not feel different right away, but notice if your awareness of God increases at other points in your day as you practice centering prayer regularly over time./r/rSome people find that after practicing centering prayer over time, they need a bit less sleep because the brain finds centering prayer restful (source: A Centered Life, Basil Pennington).",
+"styles": ["contemplative", "mystical", "restful"],
 "topicIDs": ["God & You"],
 "isCustom": false
 },
 
+{
+"id": "act0108",
+"name": "Research the names of God",
+"summary": "Find a list of the names of God in the Bible, choose one, and look up the Bible stories connected to that name for God.",
+"howTo": "1. Google 'names of God in the Bible'./r/r2. Choose one that intrigues you./r/r3. Google 'Bible God' and the name you chose to get Bible references for that name./r/r4.Pray and ask God to help you understand that part of God' character./r/r5. Read the Bible stories for when that name for God is used./r/r5. Consider what the story tells you about who God is to the nation of Israel, to all of humanity, and to you./r/r6. Consider if there is any part of your life where you'd like to experience and trust God more in that way in your life./r/r6. Pray for God to help you trust Him more in this way.",
+"tips":"",
+"styles": ["research", "contemplative"],
+"topicIDs": ["God & You"],
+"isCustom": false
+},
 
+{
+"id": "act0109",
+"name": "Reflect God's justice",
+"summary": "Use Biblical descriptions of God's justice to evaluate and realign justice work you do.",
+"howTo": "Choose a justice project you're involved with to evaluate./r/rRead one of the following passages describing God's justice. /r - Isaiah 58:1-12 - The fasting God has chosen is mercy and justice /r - Psalm 89:14-18 - God’s throne of justice and righteousness /r - Psalm 146:5-9 - God upholds the cause of the oppressed /r - James 2:1-13 - Mercy without favoritism /r/rConsider if there are any ways that your work in the justice project doesn't match God's description of justice. If so, ask God to reveal to you why God's way is more just. /r/r Ask God to show you how to adjust your work ot reflect godly justice. /r/rFinally, make a plan for how you're going to adjust your work next time you're engaged in it.",
+"tips":"If you're not currently involved in justice work, you could choose a passage to read and notice if God is calling you to connect with a new justice project at this time. If so, start by learning about/from who is already doing that work in your area.",
+"styles": ["advocate", "research", "analytical"],
+"topicIDs": ["God & You"],
+"isCustom": false
+},
 
 
 
@@ -148,8 +168,19 @@
 "howTo": "Does your church have a group that works to help people experiencing hunger, lack of clean water, lack of clothing or shelter, imprisonment, illness, grief, refugee status, or another form of vulnerability? Does your church coordinate for anti-injustice efforts? Make a connection with that ministry. You might:\r - Learn about the ministry.\r - Reach out to the contact person for a conversation about what they do.\r\r - Pray about how you might add to their efforts.",
 "tips": "Avoid suggesting how they might do things differently until you understand how they chose their approach.\r\rAs you get to know this ministry, try to learn about anyone else doing similar work in the same city, which can help you understand the ministry landscape, build relationships, and learn from different approaches.",
 "styles": ["social", "advocate", "speaking", "research"],
-"topicIDs": ["God & You"],
+"topicIDs": ["Mercy & Justice"],
 "isCustom": true
+},
+
+{
+"id": "act1202",
+"name": "Reflect God's justice",
+"summary": "Use Biblical descriptions of God's justice to evaluate and realign justice work you do.",
+"howTo": "Choose a justice project you're involved with to evaluate./r/rRead one of the following passages describing God's justice. /r - Isaiah 58:1-12 - The fasting God has chosen is mercy and justice /r - Psalm 89:14-18 - God’s throne of justice and righteousness /r - Psalm 146:5-9 - God upholds the cause of the oppressed /r - James 2:1-13 - Mercy without favoritism /r/rConsider if there are any ways that your work in the justice project doesn't match God's description of justice. If so, ask God to reveal to you why God's way is more just. /r/r Ask God to show you how to adjust your work ot reflect godly justice. /r/rFinally, make a plan for how you're going to adjust your work next time you're engaged in it.",
+"tips":"If you're not currently involved in justice work, you could choose a passage to read and notice if God is calling you to connect with a new justice project at this time. If so, start by learning about/from who is already doing that work in your area.",
+"styles": ["advocate", "research", "analytical"],
+"topicIDs": ["Mercy & Justice"],
+"isCustom": false
 }
 ]
 
