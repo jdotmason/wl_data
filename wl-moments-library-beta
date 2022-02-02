@@ -16,9 +16,8 @@
 "favorite":false,
 "audio":""
 
-}
+},
 
---
 {
 "id":"moment02",
 "name":"Reflect on a cross.",
@@ -117,7 +116,7 @@
 },
 
 {
-"id": "moment06"
+"id": "moment06",
 "name":"Silence and brief opening prayer",
 "summary":[
     "Start with a quiet moment to give everyone time to turn their attention towards God.",
@@ -137,7 +136,7 @@
 },
 
 {
-"id": "moment07"
+"id": "moment07",
 "name":"Invite God into your spiritual mentoring/partnering relationship(s).",
 "summary":[
     "Take a moment to pray silently or in a journal, thanking God for the person/people you’re meeting with now.",
@@ -216,7 +215,7 @@
     "--",
 
     "Is there anything in the song that helps you feel closer to God?"
-    ]
+    ],
 "favorite":false,
 "audio":""
 },
