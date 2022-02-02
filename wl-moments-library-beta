@@ -207,170 +207,185 @@
 "audio":""
 },
 
-let moment10 = MomentModel (
-id: UUID(),
-name:"Musical reflection.",
-summary:[
-"Listen together to a song, such as 'Come As You Are' by Crowder, 'The Kingdom is Yours' by Common Hymnal, 'Gratitude' by Brandon Lake, or ask someone to share a favorite Christian song.",
+{
+"id": "moment10",
+"name":"Musical reflection.",
+"summary":[
+    "Listen together to a song, such as 'Come As You Are' by Crowder, 'The Kingdom is Yours' by Common Hymnal, 'Gratitude' by Brandon Lake, or ask someone to share a favorite Christian song.",
 
-"--",
+    "--",
 
-"Is there anything in the song that helps you feel closer to God?"
-]
+    "Is there anything in the song that helps you feel closer to God?"
+    ]
+"favorite":false,
+"audio":""
+},
 
-)
+{
+"id": "moment11",
+"name":"A moment of thanks and joy.",
+"summary":[
+    "Take a deep breath and remember God's presence in the room with you now.",
 
-let moment11 = MomentModel (
-id: UUID(),
-name:"A moment of thanks and joy.",
-summary:[
-"Take a deep breath and remember God's presence in the room with you now.",
+    "In this moment, think of God as full of joy, as a warm, wise, peaceful presence.",
 
-"In this moment, think of God as full of joy, as a warm, wise, peaceful presence.",
+    "What does God's joy look like in your mind right now?",
 
-"What does God's joy look like in your mind right now?",
+    "God feels joy in giving good gifts to his children. What gift or blessing in your life or community connects you with God's joy?",
 
-"God feels joy in giving good gifts to his children. What gift or blessing in your life or community connects you with God's joy?",
+    "--",
 
-"--",
+    "When you're ready, take turns sharing something recently that has brought you joy."
 
-"When you're ready, take turns sharing something recently that has brought you joy."
+    ],
+"favorite":false,
+"audio":""
+},
 
-]
+{
+"id": "moment12",
+"name":"Breath prayer.",
+"summary":[
+    "Breath prayer is a slow breathe-in, breathe-out prayer, where you think a phrase as you breathe in, and then think another as you breathe out.",
 
-)
+    "Some examples of breath prayers are:",
 
-let moment12 = MomentModel (
-id: UUID(),
-name:"Breath prayer.",
-summary:[
-"Breath prayer is a slow breathe-in, breathe-out prayer, where you think a phrase as you breathe in, and then think another as you breathe out.",
+    "In: 'Lord, Jesus Christ,' Out: 'have mercy on me, a sinner.'",
 
-"Some examples of breath prayers are:",
+    "  or",
 
-"In: 'Lord, Jesus Christ,' Out: 'have mercy on me, a sinner.'",
+    "In: 'Lord, I believe.' Out: 'Help my unbelief.'",
 
-"  or",
+    "   or",
 
-"In: 'Lord, I believe.' Out: 'Help my unbelief.'",
+    "In: 'Thank You for my life,' Out: 'I have no good apart from You.'",
 
-"   or",
+    "Choose one of these in-out phrase pairs that speak to you today, and slowly and silently repeat your breath prayer several times.",
 
-"In: 'Thank You for my life,' Out: 'I have no good apart from You.'",
+    "--",
 
-"Choose one of these in-out phrase pairs that speak to you today, and slowly and silently repeat your breath prayer several times.",
+    "After your breath prayer time, notice if anything changed or deepened in your heart or spirit because the prayer was repeated."
+    ],
+"favorite":false,
+"audio":""
+},
 
-"--",
+{
+"id": "moment13",
+"name":"Remember your 'first love' for Jesus.",
+"summary":[
+    "Close your eyes and think back to an early moment of experiencing Jesus personally or in your community.",
 
-"After your breath prayer time, notice if anything changed or deepened in your heart or spirit because the prayer was repeated."
-]
-)
+    "People may first experience Jesus as an Example, a Hero, a Guide, a Wakeup Call, a Teacher, a Leader, a Friend, or something else.",
 
-let moment13 = MomentModel (
-id: UUID(),
-name:"Remember your 'first love' for Jesus.",
-summary:[
-"Close your eyes and think back to an early moment of experiencing Jesus personally or in your community.",
+    "Where were you, and how old were you in that early moment of experiencing Jesus? Who else was there?",
 
-"People may first experience Jesus as an Example, a Hero, a Guide, a Wakeup Call, a Teacher, a Leader, a Friend, or something else.",
+    "Who was Jesus to you then?",
 
-"Where were you, and how old were you in that early moment of experiencing Jesus? Who else was there?",
+    "What did it feel like to experience Jesus in that way?",
 
-"Who was Jesus to you then?",
+    "Silently thank Jesus for who he has been for you.",
 
-"What did it feel like to experience Jesus in that way?",
+    "--",
 
-"Silently thank Jesus for who he has been for you.",
+    "When you're ready, tell a bit of your story to one another."
+    ],
+"favorite":false,
+"audio":""
+},
 
-"--",
+{
+"id": "moment14",
+"name":"Psalm reflection (partial lectio divina).",
+"summary":[
+    "Choose a psalm (If you're doing this with the topic on suffering, I recommend 6, 10, 38, 42, and 130).",
 
-"When you're ready, tell a bit of your story to one another."
-]
-)
+    "One of you read the psalm aloud—VERY SLOWLY. As everyone else listens, notice if a word or phrase stands out to you. Maybe your mind lingers on it, or the phrase  sort of 'glows' in your heart.",
 
-let moment14 = MomentModel (
-id: UUID(),
-name:"Psalm reflection (partial lectio divina).",
-summary:[
-"Choose a psalm (If you're doing this with the topic on suffering, I recommend 6, 10, 38, 42, and 130).",
+    "Share with each other the word or phrase that stood out to you. No explanation necessary yet, just the word or phrase itself.",
 
-"One of you read the psalm aloud—VERY SLOWLY. As everyone else listens, notice if a word or phrase stands out to you. Maybe your mind lingers on it, or the phrase  sort of 'glows' in your heart.",
+    "Again read the psalm aloud very slowly. This time as you listen, notice how that word or phrase that stood out to you may be connected to your life in some way.",
 
-"Share with each other the word or phrase that stood out to you. No explanation necessary yet, just the word or phrase itself.",
+    "--",
 
-"Again read the psalm aloud very slowly. This time as you listen, notice how that word or phrase that stood out to you may be connected to your life in some way.",
+    "Briefly share with each other what came to mind."
 
-"--",
+    ],
+"favorite":false,
+"audio":""
+},
 
-"Briefly share with each other what came to mind."
+{
+"id": "moment15",
+"name":"Contemplate God as a leader.",
+"summary":[
+    "Close your eyes and think for a moment about God as a leader.",
 
-]
-)
+    "What kind of leader does God seem to be to you right now?",
 
-let moment15 = MomentModel (
-id: UUID(),
-name:"Contemplate God as a leader.",
-summary:[
-"Close your eyes and think for a moment about God as a leader.",
+    "Your immediate reaction in this moment may or may not match what’s in the Bible, or even how you felt yesterday.",
 
-"What kind of leader does God seem to be to you right now?",
+    "This meditation is about how God seems in this moment and what you’re experiencing.",
 
-"Your immediate reaction in this moment may or may not match what’s in the Bible, or even how you felt yesterday.",
+    "For example, some have said God feels like a loving grandpa, a stern police officer, an impersonal force in the universe, a caring parent, a demanding boss, or something else",
 
-"This meditation is about how God seems in this moment and what you’re experiencing.",
+    "What about you? As you think about God’s leadership in your life right now, what image comes to mind?",
 
-"For example, some have said God feels like a loving grandpa, a stern police officer, an impersonal force in the universe, a caring parent, a demanding boss, or something else",
+    "When you have an image in mind, tell God in your heart, 'Lord, right now, you seem to be like a...'",
 
-"What about you? As you think about God’s leadership in your life right now, what image comes to mind?",
+    "Listen for a moment in the quiet if any words or assurances come into your mind or heart.",
 
-"When you have an image in mind, tell God in your heart, 'Lord, right now, you seem to be like a...'",
+    "--",
 
-"Listen for a moment in the quiet if any words or assurances come into your mind or heart.",
+    "What if anything changed in you after this reflection?"
 
-"--",
+    ],
+"favorite":false,
+"audio":""
+},
 
-"What if anything changed in you after this reflection?"
+{
+"id": "moment16",
+"name":"Find God in the present moment.",
+"summary":[
+    "Start with a slow, deep breath. Slow your breathing down, breathing into the count of 5, and out to the count of 7.",
 
-]
-)
+    "As you keep breathing slowly, look at your own hands for a moment. This helps you focus on the present moment.",
 
-let moment16 = MomentModel (
-id: UUID(),
-name:"Find God in the present moment.",
-summary:[
-"Start with a slow, deep breath. Slow your breathing down, breathing into the count of 5, and out to the count of 7.",
+    "Now notice your surroundings. Notice the sights, sounds, smells, and other sensations. Just settle in to the present moment.",
 
-"As you keep breathing slowly, look at your own hands for a moment. This helps you focus on the present moment.",
+    "Now recall that the fingerprints of God's creativity is in everything that your sense can perceive, and God is present with You in the room now.",
 
-"Now notice your surroundings. Notice the sights, sounds, smells, and other sensations. Just settle in to the present moment.",
+    "--",
 
-"Now recall that the fingerprints of God's creativity is in everything that your sense can perceive, and God is present with You in the room now.",
+    "As you focus on God’s presence here, what do you feel?"
 
-"--",
+    ],
+"favorite":false,
+"audio":""
+},
 
-"As you focus on God’s presence here, what do you feel?"
+{
+"id": "moment17",
+"name":"Visualize resting in God as a loving parent.",
+"summary":[
+    "Close your eyes and take a moment to imagine a scene where you feel completely at rest with God as your parent, a perfect, loving, wise parent.",
 
-]
-)
+    "Where are you? What do you see and hear in the scene?",
 
-let moment17 = MomentModel (
-id: UUID(),
-name:"Visualize resting in God as a loving parent.",
-summary:[
-"Close your eyes and take a moment to imagine a scene where you feel completely at rest with God as your parent, a perfect, loving, wise parent.",
+    "Where is God in the picture in relation to you?",
 
-"Where are you? What do you see and hear in the scene?",
+    "In the scene, look at God's face. What expression is on God's face as God looks at you?",
 
-"Where is God in the picture in relation to you?",
+    "Is anyone else there?",
 
-"In the scene, look at God's face. What expression is on God's face as God looks at you?",
+    "--",
 
-"Is anyone else there?",
+    "If you feel comfortable, share your image."
 
-"--",
+    ],
+"favorite":false,
+"audio":""
+}
 
-"If you feel comfortable, share your image."
-
-]
-)
 ]
