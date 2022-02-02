@@ -78,51 +78,29 @@ TEMPLATE
 },
 
 {
-"id":
-"icon":
-"name":
-"summary"
+"id":"restful",
+"icon":"😌",
+"name":"restful",
+"summary":"Find rest in God, let go of toxic things, prune good things, and practice healthy life rhythms."
 },
 
 {
-"id":
-"icon":
-"name":
-"summary"
+"id":"advanced",
+"icon":"⛰",
+"name":"advanced",
+"summary": "For those already experienced with basic Christian practices."
+
 },
 
 {
-"id":
-"icon":
-"name":
-"summary"
+"id":"custom",
+"icon":"",
+"name":"custom",
+"summary": "Actions I felt prompted to do specific to my life."
+
 }
 
 ]
-     
-        let restful = StyleModel(
-            id : UUID(),
-            icon : "😌",
-            name : "restful",
-            summary : "Find rest in God, let go of toxic things, prune good things, and practice healthy life rhythms."
-        )
- 
-        let advanced = StyleModel(
-            id : UUID(),
-            icon : "⛰",
-            name : "advanced",
-            summary : "For those already experienced with basic Christian practices."
-        )
-
-        let custom = StyleModel(
-            id : UUID(),
-            icon : "person",
-            name : "custom",
-            summary : "Actions I felt prompted to do specific to my life."
-        )
-
-}
-
 
 
 
