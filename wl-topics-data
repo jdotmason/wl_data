@@ -1,346 +1,317 @@
 [
 
 {
+"id":"begin00",
+"topicID":"Begin",
+"name":"Intro",
+"available":"true",
+"keywords":"",
+"subtitle":"Connect as a Group",
+"summary":"In this first meeting, connect with your group and decide on your journey together.",
+"explores":["What's new in our lives?", "What do we want to focus on?"],
+"photo":"open",
+"tags":["Start"]
+},
 
+{        
+"id": "end00",
+"topicID" : "End",
+"name": "Conclusion",
+"available": "true",
+"keywords": "",
+"subtitle": "Wrap Up & Celebrate",
+"summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
+"explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
+"photo": "fireworks",
+"tags": ["End"]
+},
+
+{
+"id": "topic01",
+"topicID" : "God & You",
+"nam"e: "God & You",
+"available": "true",
+"keywords": "God",
+"subtitle": "Spiritual Identity & Relationship",
+"summary": "Among all the religions of the world, the God of the Bible is unique and wants to have a relationship with you.",
+"explore"s: ["Who is God to you — and to humanity?", "Who are you to God?"],
+"photo": "pink-galaxy",
+"tags": ["Connect With God"],
+},
+
+{
+"id": "topic02",
+"topicID": "Jesus & Gospel",
+"name": "Jesus & The Gospel",
+"available": "true",
+"keywords": "a relationship with God or spiritual identity",
+"subtitle': "Hope for My Life",
+"summary": "Because of Jesus’ life, death, and resurrection, there’s hope in every life circumstance.",
+"explores": ["Who (and what) is Jesus?", "Why is 'the gospel' about Jesus good news?", "Why does Jesus' gospel matter today?"],
+"photo": "sandals",
+"tags": ["Connect With God"],
+},
+
+{
+"id": "topic03",
+"topicID" : "Bible",
+"name": "The Bible" ,
+"available": "false",
+"keywords": "the Bible",
+"subtitle": "God's Word to Humanity",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Connect With God"],
+},
+
+{
+"id": "topic04",
+"topicID": "Holy Spirit",
+"name": "The Holy Spirit",
+"available": "false",
+"keywords": "the Holy Spirit",
+"subtitle": "God's Presence & Leading",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Connect With God"],
+},
+
+{
+"id": "topic05",
+"topicID": "Sin & Repentance",
+"name": "Align with God",
+"available": "false",
+"keywords": "the Holy Spirit",
+"subtitle": "Temptation, Sin, Lament, Repentance & Freedom",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Connect With God"],
+},
+
+{
+"id": "topic06",
+"topicID" : "Spiritual Practices",
+"name": "Basic Spiritual Practices",
+"available": "false",
+"keywords": "spiritual practices",
+"subtitle": "Worship, Prayer, The Lord's Supper, Fellowship & More ",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Grow in God's Community"],
+},
+
+{
+"id": "topic07",
+"topicID" : "Christian Community",
+"name": "Christian Community",
+"available": "false",
+"keywords": "churches or other Christian communities",
+"subtitle": "Hopes & Challenges in the Body of Christ",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Grow in God's Community"],
+},
+
+{
+"id": "topic08",
+"topicID" : "Spiritual Gifts",
+"name": "Spiritual Gifts",
+"available": "false",
+"keywords": "spiritual gifts",
+"subtitle": "Equipping & Building Up The Community",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Grow in God's Community"],
+},
+
+{
+"id": "topic09",
+"topicID" : "Healing & Forgiveness",
+"name": "Mending From Hurts",
+"available": "false",
+"keywords": "personal hurts, healing, or forgiveness",
+"subtitle": "Healing & Forgiveness",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Grow in God's Community"],
+},
+
+{
+"id": "topic10",
+"topicID" : "Suffering",
+"name": "Suffering with Christ",
+"available": "false",
+"keywords": "pain, loss, waiting, or persecution for your faith",
+"subtitle": "Pain, Loss, Waiting & Persecution",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Grow in God's Community"],
+},
+
+{
+"id": "topic11",
+"topicID" : "Relationships",
+"name": "Personal Relationships",
+"available": false,
+"keywords": "friendships or romantic relationships",
+"subtitle": "Love, Marriage, Sex & Friendship",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Life With God in Your Society"],
+},
+
+{
+"id": "topic12",
+"topicID" : "Mercy & Justice",
+"name": "Mercy & Justice",
+"available": "false",
+"keywords": "serving in the community for the sake of mercy or justice",
+"subtitle": "Serving the Community in the Name of Jesus",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Life With God in Your Society"],
+},
+
+{
+"id": "topic13",
+"topicID" : "Evangelism & Mission",
+"name": "Evangelism & Mission",
+"available": "false",
+"keywords": "sharing the Good News of Jesus in word or deed",
+"subtitle": "Sharing the Good News of Jesus in Word & Deed",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Life With God in Your Society"],
+},
+
+{
+"id": "topic14",
+"topicID" : "Vocation",
+"name": "Vocation",
+"available": "false",
+"keywords": "",
+"subtitle": "Mission, Excellence & Ethics in Your Daily Work",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Life With God in Your Society"],
+},
+
+{
+"id": "topic15",
+"topicID" : "Faith & Finances",
+"name": "Faith & Finances",
+"available": "false",
+"keywords": "",
+"subtitle": "Integrity, Stewardship & Worship",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["Life With God in Your Society"],
+},
+
+{
+"id": "topic16",
+"topicID" : "Kingdom Vision",
+"name": "Kingdom Vision",
+"available": "false",
+"keywords": "",
+"subtitle": "The Larger Story of the Church",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["God’s Kingdom Coming Worldwide"],
+},
+
+{
+"id": "topic17",
+"topicID" : "Spiritual Battle",
+"name": "Spiritual Battle",
+"available": "false",
+"keywords": "",
+"subtitle": "Discernment and Prayer Warfare",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["God’s Kingdom Coming Worldwide"],
+},
+
+{
+"id": "topic19",
+"topicID" : "Environment",
+"name": "Taking Care of God's Creation",
+"available": "false",
+"keywords": "",
+"subtitle": "Stewardship of the Environment",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["God’s Kingdom Coming Worldwide"],
+},
+
+{
+"id": "topic18",
+"topicID" : "Mentoring & Parenting",
+"name": "Helping Others Grow",
+"available": "false",
+"keywords": "",
+"subtitle": "Mentoring & Parenting",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["God’s Kingdom Coming Worldwide"],
+},
+
+"id": "topic20",
+"topicID" : "Spiritual Leadership",
+"name": "Serve by Leading",
+"available": "false",
+"keywords": "",
+"subtitle": "Spiritual Leadership Jesus' Way",
+"summary": "",
+"explores": [""],
+"photo": "grey",
+"tags": ["God’s Kingdom Coming Worldwide"],
+},
+
+{
+"id: "topic21",
+"topicID" : "General",
+"name": "All Things Lead Me To God",
+"available": "false",
+"keywords": "",
+"subtitle": "Finding God in Your Life Circumstances",
+"summary": "Use this topic for a conversation about an issue going on in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
+"explores": [""],
+"photo": "grey",
+"tags": ["General"],
+},
+
+{
+"id": "topic22",
+"topicID" : "Coach Training",
+"name": "Coach Training",
+"available": "true",
+"keywords": "spiritual mentoring, discipleship, or helping others grow spiritually",
+"subtitle": "Effective Mentoring Using This App",
+"summary": "Learn to facilitate Bible-based spiritual growth that is emotionally intelligent, spirit-led, and action-oriented.",
+"explores": ["How does this app work?", "What do I need to learn to coach others?"],
+"photo": "loveyourlife",
+"tags": ["General"],
 }
 
 ]
-
----
-    let begin00 = TopicModel(
-        id: UUID(),
-        topicID: "Begin",
-        name: "Intro",
-        available: true,
-        keywords: "",
-        subtitle: "Connect as a Group",
-        summary: "In this first meeting, connect with your group and decide on your journey together.",
-        explores: ["What's new in our lives?", "What do we want to focus on?"],
-        photo: "open",
-        tags: ["Start"]
-    )
-
-    let end00 = TopicModel(
-        id: UUID(),
-        topicID : "End",
-        name: "Conclusion",
-        available: true,
-        keywords: "",
-        subtitle: "Wrap Up & Celebrate",
-        summary: "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
-        explores: ["What's changed?", "What did God do?", "Where do we want to go from here?"],
-        photo: "fireworks",
-        tags: ["End"]
-    )
-
-    let topic1 = TopicModel(
-        id: UUID(),
-        topicID : "God & You",
-        name: "God & You",
-        available: true,
-        keywords: "God",
-        subtitle: "Spiritual Identity & Relationship",
-        summary: "Among all the religions of the world, the God of the Bible is unique and wants to have a relationship with you.",
-        explores: ["Who is God to you — and to humanity?", "Who are you to God?"],
-        photo: "pink-galaxy",
-        tags: ["Connect With God"],
-        scrips: []
-    )
-
-    let topic2 = TopicModel(
-        id: UUID(),
-        topicID : "Jesus & Gospel",
-        name: "Jesus & The Gospel",
-        available: true,
-        keywords: "a relationship with God or spiritual identity",
-        subtitle: "Hope for My Life",
-        summary: "Because of Jesus’ life, death, and resurrection, there’s hope in every life circumstance.",
-        explores: ["Who (and what) is Jesus?", "Why is 'the gospel' about Jesus good news?", "Why does Jesus' gospel matter today?"],
-        photo: "sandals",
-        tags: ["Connect With God"],
-        scrips: []
-    )
-    
-    let topic3 = TopicModel(
-        id: UUID(),
-        topicID : "Bible",
-        name: "The Bible" ,
-        available: false,
-        keywords: "the Bible",
-        subtitle: "God's Word to Humanity",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Connect With God"],
-        scrips: []
-    )
-    
-    let topic4 = TopicModel(
-        id: UUID(),
-        topicID : "Holy Spirit",
-        name: "The Holy Spirit",
-        available: false,
-        keywords: "the Holy Spirit",
-        subtitle: "God's Presence & Leading",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Connect With God"],
-        scrips: []
-    )
-    
-    let topic5 = TopicModel(
-        id: UUID(),
-        topicID : "Sin & Repentance",
-        name: "Align with God",
-        available: false,
-        keywords: "the Holy Spirit",
-        subtitle: "Temptation, Sin, Lament, Repentance & Freedom",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Connect With God"],
-        scrips: []
-    )
-    
-    let topic6 = TopicModel(
-        id: UUID(),
-        topicID : "Spiritual Practices",
-        name: "Basic Spiritual Practices",
-        available: false,
-        keywords: "spiritual practices",
-        subtitle: "Worship, Prayer, The Lord's Supper, Fellowship & More ",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Grow in God's Community"],
-        scrips: []
-    )
-    
-    let topic7 = TopicModel(
-        id: UUID(),
-        topicID : "Christian Community",
-        name: "Christian Community",
-        available: false,
-        keywords: "churches or other Christian communities",
-        subtitle: "Hopes & Challenges in the Body of Christ",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Grow in God's Community"],
-        scrips: []
-    )
-    
-    let topic8 = TopicModel(
-        id: UUID(),
-        topicID : "Spiritual Gifts",
-        name: "Spiritual Gifts",
-        available: false,
-        keywords: "spiritual gifts",
-        subtitle: "Equipping & Building Up The Community",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Grow in God's Community"],
-        scrips: []
-    )
-
-    let topic9 = TopicModel(
-        id: UUID(),
-        topicID : "Healing & Forgiveness",
-        name: "Mending From Hurts",
-        available: false,
-        keywords: "personal hurts, healing, or forgiveness",
-        subtitle: "Healing & Forgiveness",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Grow in God's Community"],
-        scrips: []
-    )
-    
-    let topic10 = TopicModel(
-        id: UUID(),
-        topicID : "Suffering",
-        name: "Suffering with Christ",
-        available: false,
-        keywords: "pain, loss, waiting, or persecution for your faith",
-        subtitle: "Pain, Loss, Waiting & Persecution",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Grow in God's Community"],
-        scrips: []
-    )
-    
-    let topic11 = TopicModel(
-        id: UUID(),
-        topicID : "Relationships",
-        name: "Personal Relationships",
-        available: false,
-        keywords: "friendships or romantic relationships",
-        subtitle: "Love, Marriage, Sex & Friendship",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Life With God in Your Society"],
-        scrips: []
-    )
-    
-    let topic12 = TopicModel(
-        id: UUID(),
-        topicID : "Mercy & Justice",
-        name: "Mercy & Justice",
-        available: false,
-        keywords: "serving in the community for the sake of mercy or justice",
-        subtitle: "Serving the Community in the Name of Jesus",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Life With God in Your Society"],
-        scrips: []
-    )
-    
-    let topic13 = TopicModel(
-        id: UUID(),
-        topicID : "Evangelism & Mission",
-        name: "Evangelism & Mission",
-        available: false,
-        keywords: "sharing the Good News of Jesus in word or deed",
-        subtitle: "Sharing the Good News of Jesus in Word & Deed",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Life With God in Your Society"],
-        scrips: []
-    )
-    
-    let topic14 = TopicModel(
-        id: UUID(),
-        topicID : "Vocation",
-        name: "Vocation",
-        available: false,
-        keywords: "",
-        subtitle: "Mission, Excellence & Ethics in Your Daily Work",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Life With God in Your Society"],
-        scrips: []
-    )
-    
-    let topic15 = TopicModel(
-        id: UUID(),
-        topicID : "Faith & Finances",
-        name: "Faith & Finances",
-        available: false,
-        keywords: "",
-        subtitle: "Integrity, Stewardship & Worship",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["Life With God in Your Society"],
-        scrips: []
-    )
-    
-    let topic16 = TopicModel(
-        id: UUID(),
-        topicID : "Kingdom Vision",
-        name: "Kingdom Vision",
-        available: false,
-        keywords: "",
-        subtitle: "The Larger Story of the Church",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["God’s Kingdom Coming Worldwide"],
-        scrips: []
-    )
-    
-    let topic17 = TopicModel(
-        id: UUID(),
-        topicID : "Spiritual Battle",
-        name: "Spiritual Battle",
-        available: false,
-        keywords: "",
-        subtitle: "Discernment and Prayer Warfare",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["God’s Kingdom Coming Worldwide"],
-        scrips: []
-    )
-    
-    let topic19 = TopicModel(
-        id: UUID(),
-        topicID : "Environment",
-        name: "Taking Care of God's Creation",
-        available: false,
-        keywords: "",
-        subtitle: "Stewardship of the Environment",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["God’s Kingdom Coming Worldwide"],
-        scrips: []
-    )
-    
-    let topic18 = TopicModel(
-        id: UUID(),
-        topicID : "Mentoring & Parenting",
-        name: "Helping Others Grow",
-        available: false,
-        keywords: "",
-        subtitle: "Mentoring & Parenting",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["God’s Kingdom Coming Worldwide"],
-        scrips: []
-    )
-    
-    let topic20 = TopicModel(
-        id: UUID(),
-        topicID : "Spiritual Leadership",
-        name: "Serve by Leading",
-        available: false,
-        keywords: "",
-        subtitle: "Spiritual Leadership Jesus' Way",
-        summary: "",
-        explores: [""],
-        photo: "grey",
-        tags: ["God’s Kingdom Coming Worldwide"],
-        scrips: []
-    )
-    
-    let topic21 = TopicModel(
-        id: UUID(),
-        topicID : "General",
-        name: "All Things Lead Me To God",
-        available: false,
-        keywords: "",
-        subtitle: "Finding God in Your Life Circumstances",
-        summary: "Use this topic for a conversation about an issue going on in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
-        explores: [""],
-        photo: "grey",
-        tags: ["General"],
-        scrips: []
-    )
-    
-    let topic22 = TopicModel(
-        id: UUID(),
-        topicID : "Coach Training",
-        name: "Coach Training",
-        available: true,
-        keywords: "spiritual mentoring, discipleship, or helping others grow spiritually",
-        subtitle: "Effective Mentoring Using This App",
-        summary: "Learn to facilitate Bible-based spiritual growth that is emotionally intelligent, spirit-led, and action-oriented.",
-        explores: ["How does this app work?", "What do I need to learn to coach others?"],
-        photo: "loveyourlife",
-        tags: ["General"],
-        scrips: []
-    )
-}
 
 
 
