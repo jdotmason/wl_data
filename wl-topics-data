@@ -10,7 +10,8 @@
 "summary":"In this first meeting, connect with your group and decide on your journey together.",
 "explores":["What's new in our lives?", "What do we want to focus on?"],
 "photo":"open",
-"tags":["Start"]
+"tags":["Start"],
+"scrips":[]
 },
 
 
@@ -25,7 +26,8 @@
 "summary": "Among all the religions of the world, the God of the Bible is unique and wants to have a relationship with you.",
 "explores": ["Who is God to you — and to humanity?", "Who are you to God?"],
 "photo": "pink-galaxy",
-"tags": ["Connect With God"]
+"tags": ["Connect With God"],
+"scrips":[]
 },
 
 {
@@ -38,7 +40,8 @@
 "summary": "Because of Jesus’ life, death, and resurrection, there’s hope in every life circumstance.",
 "explores": ["Who (and what) is Jesus?", "Why is 'the gospel' about Jesus good news?", "Why does Jesus' gospel matter today?"],
 "photo": "sandals",
-"tags": ["Connect With God"]
+"tags": ["Connect With God"],
+"scrips":[]
 },
 
 {
@@ -51,7 +54,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Connect With God"]
+"tags": ["Connect With God"],
+"scrips":[]
 },
 
 {
@@ -64,7 +68,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Connect With God"]
+"tags": ["Connect With God"],
+"scrips":[]
 },
 
 {
@@ -77,7 +82,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Connect With God"]
+"tags": ["Connect With God"],
+"scrips":[]
 },
 
 {
@@ -90,7 +96,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Grow in God's Community"]
+"tags": ["Grow in God's Community"],
+"scrips":[]
 },
 
 {
@@ -103,7 +110,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Grow in God's Community"]
+"tags": ["Grow in God's Community"],
+"scrips":[]
 },
 
 {
@@ -116,7 +124,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Grow in God's Community"]
+"tags": ["Grow in God's Community"],
+"scrips":[]
 },
 
 {
@@ -129,7 +138,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Grow in God's Community"]
+"tags": ["Grow in God's Community"],
+"scrips":[]
 },
 
 {
@@ -142,7 +152,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Grow in God's Community"]
+"tags": ["Grow in God's Community"],
+"scrips":[]
 },
 
 {
@@ -155,7 +166,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Life With God in Your Society"]
+"tags": ["Life With God in Your Society"],
+"scrips":[]
 },
 
 {
@@ -168,7 +180,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Life With God in Your Society"]
+"tags": ["Life With God in Your Society"],
+"scrips":[]
 },
 
 {
@@ -181,7 +194,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Life With God in Your Society"]
+"tags": ["Life With God in Your Society"],
+"scrips":[]
 },
 
 {
@@ -194,7 +208,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Life With God in Your Society"]
+"tags": ["Life With God in Your Society"],
+"scrips":[]
 },
 
 {
@@ -207,7 +222,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["Life With God in Your Society"]
+"tags": ["Life With God in Your Society"],
+"scrips":[]
 },
 
 {
@@ -220,7 +236,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["God’s Kingdom Coming Worldwide"]
+"tags": ["God’s Kingdom Coming Worldwide"],
+"scrips":[]
 },
 
 {
@@ -233,7 +250,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["God’s Kingdom Coming Worldwide"]
+"tags": ["God’s Kingdom Coming Worldwide"],
+"scrips":[]
 },
 
 {
@@ -246,7 +264,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["God’s Kingdom Coming Worldwide"]
+"tags": ["God’s Kingdom Coming Worldwide"],
+"scrips":[]
 },
 
 {
@@ -259,7 +278,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["God’s Kingdom Coming Worldwide"]
+"tags": ["God’s Kingdom Coming Worldwide"],
+"scrips":[]
 },
 
 {
@@ -272,7 +292,8 @@
 "summary": "",
 "explores": [""],
 "photo": "grey",
-"tags": ["God’s Kingdom Coming Worldwide"]
+"tags": ["God’s Kingdom Coming Worldwide"],
+"scrips":[]
 },
 
 {
@@ -285,7 +306,8 @@
 "summary": "Use this topic for a conversation about an issue going on in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
 "explores": [""],
 "photo": "grey",
-"tags": ["General"]
+"tags": ["General"],
+"scrips":[]
 },
 
 
@@ -299,7 +321,8 @@
 "summary": "Learn to facilitate Bible-based spiritual growth that is emotionally intelligent, spirit-led, and action-oriented.",
 "explores": ["How does this app work?", "What do I need to learn to coach others?"],
 "photo": "loveyourlife",
-"tags": ["General"]
+"tags": ["General"],
+"scrips":[]
 },
 
 {        
@@ -312,7 +335,8 @@
 "summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
 "explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
 "photo": "fireworks",
-"tags": ["End"]
+"tags": ["End"],
+"scrips":[]
 }
 
 
