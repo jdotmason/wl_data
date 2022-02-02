@@ -1,5 +1,5 @@
 [
-TEMPLATE
+
 {
 "id":"speaking",
 "icon":"🗣",
@@ -44,7 +44,7 @@ TEMPLATE
 
 {
 "id":"physical",
-"icon":icon : "💪",
+"icon":"💪",
 "name":"physical",
 "summary":"Embody your life with God through movement, physical service, traveling, or building something."
 },
