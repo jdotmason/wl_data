@@ -1,11 +1,13 @@
 [
 {
 "id": "aboutTheDesigner",
+"name":"About the Designer",
 "contents": " Jess Mason, M.A., M.Div., is the designer, project manager, and lead coder for this app. \r\r Jess is a former neuroscientist turned minister. After leaving a PhD program in neuroscience at Brown University, Jess received an M.Div. degree from Gordon-Conwell Theological Seminary, as well as certificates from three schools of spiritual direction, the University of Amsterdam in qualitative research design, and 3DM training in disciplemaking. \r\r Jess has served as a pastoral counselor, spiritual director, spiritual directors' supervisor, founder and director of a nonprofit for spirituality and research, elder board chair, discipleship chair, spiritual vitality specialist, and a member of two church plant lead teams. \r\r Jess also served as a research associate and supervising editor with Emmanuel Gospel Center's Applied Research and Consulting team, and has worked with Vital Church Ministry on discernment teams for churches in transition or distress. \r\r Jess currently lives in the Boston area. When not working on the app, Jess attends Park Street Church, serves with their Small Groups Ministry lead team, and provides spiritual guidance for a multi-church home group."
 },
 
 {
 "id":"storyAndRationale",
+"name":"Story & Rationale",
 "contents":" STORY \r Church plant \r VCM \r Church leadership team \r EGC, LSM \r Personal \r Spiritual Direction Experience \r\r RATIONALE \r HBR personal growth \r Ebenezers \r Relational \r DMM \r Jesus \r Realms of life"
 }
 
