@@ -13,18 +13,7 @@
 "tags":["Start"]
 },
 
-{        
-"id": "end00",
-"topicID" : "End",
-"name": "Conclusion",
-"available": "true",
-"keywords": "",
-"subtitle": "Wrap Up & Celebrate",
-"summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
-"explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
-"photo": "fireworks",
-"tags": ["End"]
-},
+
 
 {
 "id": "topic01",
@@ -299,6 +288,7 @@
 "tags": ["General"]
 },
 
+
 {
 "id": "topic22",
 "topicID" : "Coach Training",
@@ -310,7 +300,21 @@
 "explores": ["How does this app work?", "What do I need to learn to coach others?"],
 "photo": "loveyourlife",
 "tags": ["General"]
+},
+
+{        
+"id": "end00",
+"topicID" : "End",
+"name": "Conclusion",
+"available": "true",
+"keywords": "",
+"subtitle": "Wrap Up & Celebrate",
+"summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
+"explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
+"photo": "fireworks",
+"tags": ["End"]
 }
+
 
 ]
 
