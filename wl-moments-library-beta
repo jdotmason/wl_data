@@ -19,3 +19,349 @@
 }
 
 ]
+--
+let moment02 = MomentModel (
+        id:UUID(),
+        name:"Reflect on a cross.",
+        summary:[
+            "Take a moment to look at a cross. If you don’t see one around, you can draw one or look at a photo of one on your phone.",
+
+            "A cross is a symbol that reminds us of how Jesus died.",
+
+            "Reflect on anything the symbol of the cross has meant to you in the past, and what it means to you now.",
+
+            "—",
+
+            "Is there anything you want to say to God after reflecting on the cross?"
+        ],
+        favorite:false,
+        audio:""
+    )
+
+    let moment03 = MomentModel (
+        id:UUID(),
+        name:"Be still and know He is God.",
+        summary:[
+            "Take a minute or two just to reflect on these words in God's presence: 'Be still, and know that I am God.'",
+
+            "Be still and know that I am God.",
+
+            "Be still and know that I am God.",
+
+            "Other versions say,",
+
+            "Cease striving and know that I am God.",
+
+            "Let be, and know that I am God.",
+
+            "Stop fighting, and know that I am God.",
+
+            "Psalm 46:10 says, 'Be still, and know that I am God. I will be exalted among the nations. I will be exalted on the earth.'",
+
+            "--",
+
+            "What if anything do you feel yourself letting go of?"
+
+        ],
+        favorite:false,
+        audio:""
+    )
+
+    let moment04 = MomentModel (
+        id: UUID(),
+        name:"Notice your spirit.",
+        summary:[
+            "Take a moment to focus on the spiritual part of you.",
+
+            "Connect with that part of you that is most deeply 'you'—the part deep, unchanging essence of you, that has never been soiled by the world’s brokenness, and that nothing and no one can destroy.",
+
+            "With that part of you awake and active, think about the fact that God’s Spirit is present with your spirit now.",
+
+            "Remember that God's Spirit, God's unchanging essence, fully knows you, that timeless, eternal part of you.",
+
+            "--",
+
+            "What do you notice about your core being that seems to come alive in this reflection?"
+
+        ]
+
+    )
+
+    let moment05 = MomentModel (
+        id: UUID(),
+        name:"Align your body's posture for spiritiual openness to God",
+        summary:[
+            "Take a moment to notice your body’s posture.",
+
+            "Close your eyes if you wish, take a slow, deep breath, and adjust into a comfortable, stable posture.",
+
+            "Slowly scan your body to Notice where there is any tension or tightness, and, breathing out, gently let the tension release and your body create more space in place of the tightness, as you're able.",
+
+            "Remember that God loves you, body and soul. If there’s anything you’re concerned about that’s giving you tension, picture yourself holding that concern as a weight, and hand that weight over to God. As you hand the wieght to God, breathe out and release the tension in your body as you are able, know God is hold your concerns for you.",
+
+            "As you open up more space in your body, imagine the warmth of God's presence filling that new space.",
+
+            "Notice if there are any places of pain in your body. As you breathe in and out, receive God's compassion for the pain you feel.",
+
+            "Slowly breathe in and out several more times, letting go of tightness, and offering your pain to God, each time you breathe out. Picture whole being surrounded with the love of God.",
+
+            "--",
+
+            "With a final slow breath, notice any ways you feel more open to God or ready for something new after this reflection."
+
+        ]
+
+    )
+
+    let moment06 = MomentModel (
+        id: UUID(),
+        name:"Silence and brief opening prayer",
+        summary:[
+            "Start with a quiet moment to give everyone time to turn their attention towards God.",
+
+            "--",
+
+            "One or two people say a brief, prayer to open your time together. You can use a pre-written prayer, like those on commonprayer.net, or pray free-form whatever you want to ask God for as you open your time together.",
+
+            "--",
+
+            "After you finish praying, is there anything you are noiw hoping for in your time together that you want to share?"
+
+        ]
+
+    )
+
+    let moment07 = MomentModel (
+        id: UUID(),
+        name:"Invite God into your spiritual mentoring/partnering relationship(s).",
+        summary:[
+            "Take a moment to pray silently or in a journal, thanking God for the person/people you’re meeting with now.",
+
+            "Silently welcome God's presence with you as you meet",
+
+            "Ask God to bless each person by name through your time together.",
+
+            "Silently offer to God any concerns you have about your relationship with that person/people.",
+
+            "Listen for anything God puts on your heart about the people around you. This is not for sharing, it's just between you and God to be connected during your time together.",
+
+            "--",
+
+            "After you listen, notice how you feel offering these relationships to God's care."
+
+
+        ]
+
+    )
+
+    let moment08 = MomentModel (
+        id: UUID(),
+        name:"Ponder Jesus' character.",
+        summary:[
+            "Take a quiet moment together and focus on Jesus.",
+
+            "Remember Jesus was and is both fully human and fully God.",
+
+            "When you think of Jesus, what first comes to your mind about him? What quality, character trait, or reality about Jesus?",
+
+            "Think of what made Jesus special in how he related to people. What stands out to you?",
+
+            "How is this aspect of Jesus' character meaningful for you in this time in your life?",
+
+            "--",
+
+            "After reflecting on Jesus, is there anything you want more of in your life?"
+        ]
+
+    )
+
+    let moment09 = MomentModel (
+        id: UUID(),
+        name:"Receive God's love.",
+        summary:[
+            "Take a deep breath and call to mind that God is present with you here.",
+
+            "In this moment, remember that God knows you fully and loves you with perfect love.",
+
+            "You are a beloved child of God, created by Him with dignity and worth that no earthly circumstance can take from you.",
+
+            "Your worth doesn't come from what you do or accomplish. You have worth because the God who created you decided you have worth before you did anything.",
+
+            "God sees with understanding all that you have been through, and God knows the full dignity of what you are becoming.",
+
+            "In the quiet, receive God’s immense love for you.",
+
+            "--",
+
+            "After the quiet, is there anything you feel you no longer need because of God's love for you?"
+        ]
+
+    )
+
+    let moment10 = MomentModel (
+        id: UUID(),
+        name:"Musical reflection.",
+        summary:[
+            "Listen together to a song, such as 'Come As You Are' by Crowder, 'The Kingdom is Yours' by Common Hymnal, 'Gratitude' by Brandon Lake, or ask someone to share a favorite Christian song.",
+
+            "--",
+
+            "Is there anything in the song that helps you feel closer to God?"
+        ]
+
+    )
+
+    let moment11 = MomentModel (
+        id: UUID(),
+        name:"A moment of thanks and joy.",
+        summary:[
+            "Take a deep breath and remember God's presence in the room with you now.",
+
+            "In this moment, think of God as full of joy, as a warm, wise, peaceful presence.",
+
+            "What does God's joy look like in your mind right now?",
+
+            "God feels joy in giving good gifts to his children. What gift or blessing in your life or community connects you with God's joy?",
+
+            "--",
+
+            "When you're ready, take turns sharing something recently that has brought you joy."
+
+        ]
+
+    )
+
+    let moment12 = MomentModel (
+        id: UUID(),
+        name:"Breath prayer.",
+        summary:[
+            "Breath prayer is a slow breathe-in, breathe-out prayer, where you think a phrase as you breathe in, and then think another as you breathe out.",
+
+            "Some examples of breath prayers are:",
+
+            "In: 'Lord, Jesus Christ,' Out: 'have mercy on me, a sinner.'",
+
+            "  or",
+
+            "In: 'Lord, I believe.' Out: 'Help my unbelief.'",
+
+           "   or",
+
+            "In: 'Thank You for my life,' Out: 'I have no good apart from You.'",
+
+            "Choose one of these in-out phrase pairs that speak to you today, and slowly and silently repeat your breath prayer several times.",
+
+            "--",
+
+            "After your breath prayer time, notice if anything changed or deepened in your heart or spirit because the prayer was repeated."
+        ]
+    )
+
+    let moment13 = MomentModel (
+        id: UUID(),
+        name:"Remember your 'first love' for Jesus.",
+        summary:[
+            "Close your eyes and think back to an early moment of experiencing Jesus personally or in your community.",
+
+            "People may first experience Jesus as an Example, a Hero, a Guide, a Wakeup Call, a Teacher, a Leader, a Friend, or something else.",
+
+            "Where were you, and how old were you in that early moment of experiencing Jesus? Who else was there?",
+
+            "Who was Jesus to you then?",
+
+            "What did it feel like to experience Jesus in that way?",
+
+            "Silently thank Jesus for who he has been for you.",
+
+            "--",
+
+            "When you're ready, tell a bit of your story to one another."
+        ]
+    )
+
+    let moment14 = MomentModel (
+        id: UUID(),
+        name:"Psalm reflection (partial lectio divina).",
+        summary:[
+            "Choose a psalm (If you're doing this with the topic on suffering, I recommend 6, 10, 38, 42, and 130).",
+
+            "One of you read the psalm aloud—VERY SLOWLY. As everyone else listens, notice if a word or phrase stands out to you. Maybe your mind lingers on it, or the phrase  sort of 'glows' in your heart.",
+
+            "Share with each other the word or phrase that stood out to you. No explanation necessary yet, just the word or phrase itself.",
+
+            "Again read the psalm aloud very slowly. This time as you listen, notice how that word or phrase that stood out to you may be connected to your life in some way.",
+
+            "--",
+
+            "Briefly share with each other what came to mind."
+
+        ]
+    )
+
+    let moment15 = MomentModel (
+        id: UUID(),
+        name:"Contemplate God as a leader.",
+        summary:[
+            "Close your eyes and think for a moment about God as a leader.",
+
+            "What kind of leader does God seem to be to you right now?",
+
+            "Your immediate reaction in this moment may or may not match what’s in the Bible, or even how you felt yesterday.",
+
+            "This meditation is about how God seems in this moment and what you’re experiencing.",
+
+            "For example, some have said God feels like a loving grandpa, a stern police officer, an impersonal force in the universe, a caring parent, a demanding boss, or something else",
+
+            "What about you? As you think about God’s leadership in your life right now, what image comes to mind?",
+
+            "When you have an image in mind, tell God in your heart, 'Lord, right now, you seem to be like a...'",
+
+            "Listen for a moment in the quiet if any words or assurances come into your mind or heart.",
+
+            "--",
+
+            "What if anything changed in you after this reflection?"
+
+        ]
+    )
+
+    let moment16 = MomentModel (
+        id: UUID(),
+        name:"Find God in the present moment.",
+        summary:[
+            "Start with a slow, deep breath. Slow your breathing down, breathing into the count of 5, and out to the count of 7.",
+
+            "As you keep breathing slowly, look at your own hands for a moment. This helps you focus on the present moment.",
+
+            "Now notice your surroundings. Notice the sights, sounds, smells, and other sensations. Just settle in to the present moment.",
+
+            "Now recall that the fingerprints of God's creativity is in everything that your sense can perceive, and God is present with You in the room now.",
+
+            "--",
+
+            "As you focus on God’s presence here, what do you feel?"
+
+        ]
+    )
+
+    let moment17 = MomentModel (
+        id: UUID(),
+        name:"Visualize resting in God as a loving parent.",
+        summary:[
+            "Close your eyes and take a moment to imagine a scene where you feel completely at rest with God as your parent, a perfect, loving, wise parent.",
+
+            "Where are you? What do you see and hear in the scene?",
+
+            "Where is God in the picture in relation to you?",
+
+            "In the scene, look at God's face. What expression is on God's face as God looks at you?",
+
+            "Is anyone else there?",
+
+            "--",
+
+            "If you feel comfortable, share your image."
+
+        ]
+    )
+
