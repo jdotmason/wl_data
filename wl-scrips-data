@@ -1,17 +1,5 @@
 [
 
-TEMPLATE
-{
-"id":
-"phrase":
-"version":"",
-"book":
-"chapter":
-"start":
-"end":
-"topicID":
-}
-
 {
 "id":"s0101",
 "phrase":"I am the Lord Your God",
@@ -164,20 +152,16 @@ TEMPLATE
 "start":"14",
 "end":"17",
 "topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0202",
+"phrase":"Jesus is the good shepherd",
+"version":"",
+"book":"John",
+"chapter":"10",
+"start":"7",
+"end":"18",
+"topicID":"Jesus & Gospel"
 }
-
-
-
-
-
-
 ]
-
----
-
-    
-        let s2_2 = ScripModel(
-            "Jesus is the good shepherd",
-            "NLT",  "John",  "10",   "7",    "18",
-            "Jesus & Gospel", ""
-        )
