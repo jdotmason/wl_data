@@ -1,0 +1,183 @@
+[
+
+TEMPLATE
+{
+"id":
+"phrase":
+"version":"",
+"book":
+"chapter":
+"start":
+"end":
+"topicID":
+}
+
+{
+"id":"s0101",
+"phrase":"I am the Lord Your God",
+"version":"",
+"book":"Exodus",
+"chapter":"20",
+"start":"1",
+"end":"6",
+"topicID":"God & You"
+},
+
+{
+"id":"s0102",
+"phrase":"Dad, Father",
+"version":"",
+"book":"Romans",
+"chapter":"8",
+"start":"14",
+"end":"17",
+"topicID":"God & You",
+},
+
+{
+"id":"s0103",
+"phrase":"'Not my people' to 'children of God'",
+"version":"",
+"book":"Romans",  
+"chapter":"9",    
+"start":"25",  
+"end": "26",
+"topicID":"God & You"
+},
+
+{
+"id":"s0104",
+"phrase":"Judge of evil, refuge for oppressed",       
+"version":"",
+"book":"Psalm",  
+"chapter":"9",    
+"start":"7",   
+"end":"10", 
+"topicID":"God & You"
+},
+
+{
+"id":"s0105",
+"phrase":"'You are mine,' says the Lord",
+"version":"",
+"book":"Isaiah",  
+"chapter":"43",    
+"start":"1",   
+"end":"7",     
+"topicID":"God & You"
+},
+
+{
+"id":"s0106",
+"phrase":"Lost sheep",
+"version":"",
+"book":"Luke",
+"chapter":"15",
+"start":"1",
+"end":"7",
+"topicID":"God & You"
+},
+
+{
+"id":"s0107",
+"phrase":"Good, loving, faithful Creator",
+"version":"",
+"book":"Psalm",
+"chapter":"100",
+"start":"",
+"end":"",
+"topicID":"God & You"
+},
+
+{
+"id":"s0108",
+"phrase":"I AM the Lord, there is no other",
+"version":"",
+"book":"Isaiah",
+"chapter":"45",
+"start":"4",
+"end":"7",
+"topicID":"God & You"
+},
+
+{
+"id":"s0109",
+"phrase":"God created the universe",
+"version":"",
+"book":"Acts",
+"chapter":"17",
+"start":"24",
+"end":"28",
+"topicID":"God & You"
+},
+
+{
+"id":"s0110",
+"phrase":"God the Redeemer",
+"version":"",
+"book":"Isaiah",
+"chapter":"54",
+"start":"4",
+"end":"8",
+"topicID":"God & You"
+},
+
+{
+"id":"s0111",
+"phrase":"God as Three-in-One",
+"version":"",
+"book":"Titus",
+"chapter":"3",
+"start":"3",
+"end":"7",
+"topicID":"God & You"
+},
+
+{
+"id":"s0112",
+"phrase":"We are made in God's image",
+"version":"",
+"book":"Genesis",
+"chapter":"1",
+"start":"26",
+"end":"30",
+"topicID":"God & You"
+},
+
+{
+"id":"s0113",
+"phrase":"I am the vine, you are the branches",
+"version":"",
+"book":"John",
+"chapter":"15",
+"start":"1",
+"end":"8",
+"topicID":"God & You"
+},
+
+{
+"id":"s0201",
+"phrase":"Freed from slavery to sin",
+"version":"",
+"book":"Hebrews",
+"chapter":"2",
+"start":"14",
+"end":"17",
+"topicID":"Jesus & Gospel"
+}
+
+
+
+
+
+
+]
+
+---
+
+    
+        let s2_2 = ScripModel(
+            "Jesus is the good shepherd",
+            "NLT",  "John",  "10",   "7",    "18",
+            "Jesus & Gospel", ""
+        )
