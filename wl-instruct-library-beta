@@ -11,13 +11,13 @@
 {
 "id":"shareBackstoryInfo",
 "contents":[
-"After catching up, start your convo by sharing some of your "backstory" on the topic with each other. This "backstory" is not your entire spiritual story, but just a snapshot of your past experience, a starting point for conversation.",
+"After catching up, start your convo by sharing some of your backstory on the topic with each other. A backstory is not your entire spiritual story, but just a snapshot of your past experience, a starting point for conversation.",
 
 "If you've added a Backstory entry to your photojournal, show and tell about that. Otherwise, you can call to mind a memory, image, person, or experience related to the topic.",
 
 "When you share, include something connected to your senses, such as an image, memorable sound, or other physical sensation--beyond simply a definition of the topic. Engaging your senses will help you bring your whole self to the conversation.",
 
-"Give each person a chance to share their backstory without interruption. Everyone is coming from a different set of life experiences so there's no judgment, and no need to comment on the stories. To engage well with others' stories, think of them as ways to understand each other better, and practice "holy curiosity" about what God is doing in the person's life in your spiritual journey together."
+"Give each person a chance to share their backstory without interruption. Everyone is coming from a different set of life experiences so there's no judgment, and no need to comment on the stories. To engage well with others' stories, think of them as ways to understand each other better, and practice holy curiosity about what God is doing in the person's life in your spiritual journey together."
 
 ],
 "tags":["backstory"]
@@ -30,7 +30,7 @@
 
 "Use the minute timer to fully participate so you don't need to watch the clock.",
 
-"Tap "Skip >>" to see a new option."
+"Tap 'Skip >>' to see a new option."
 ],
 "tags":["moment"]
 },
@@ -178,7 +178,7 @@
 "contents":[
 "1. What action did you pick?",
 
-"2. What happened?",
+"2. What happened?"
 ],
 "tags":["followup"]
 },
@@ -320,11 +320,11 @@
 
 
 "Take Action",
-"Do the action you chose. Notice what happened after you took your action, and make a "God Story" photo journal entry about it.",
+"Do the action you chose. Notice what happened after you took your action, and make a God Story photo journal entry about it.",
 
 
 "Followup",
-"Share with the group what happened when you did your action. Reflect on your experiences together and troubleshoot any obstacles.",
+"Share with the group what happened when you did your action. Reflect on your experiences together and troubleshoot any obstacles."
 ],
 "tags":["cycle"]
 },
@@ -398,7 +398,7 @@
 
 "Go to the More > About > Introduction to The App, and read it together. Poke around the five tabs in the app: People, Convos, Actions, Journal, and More."
 ],
-"tags":"["starter"]
+"tags":["starter"]
 },
 
 {
@@ -428,11 +428,11 @@
 "contents":[
 "Tap on a convo thumbnail (or list item if you're in the list view).",
 
-"Open the "About" section and read it together.",
+"Open the About section and read it together.",
 
 "Open the Share Backstories section and notice that you can upload a backstory journal entry before the next meeting so you have a photo to show. Ask if anyone has questions about that."
 ],
 "tags":["starter"]
-},
+}
 
 ]
