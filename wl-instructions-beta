@@ -1,4 +1,306 @@
 [
+{
+"welcomeToConvo":[
+"Welcome! This guide walks you through a conversation, relational Bible reading, action step, and story-sharing experience."
+],
 
+"shareBackstoryInfo":[
+"After catching up, start your convo by sharing some of your backstory on the topic with each other. A backstory is not your entire spiritual story, but just a snapshot of your past experience, a starting point for conversation.",
+
+"If you've added a Backstory entry to your photojournal, show and tell about that. Otherwise, you can call to mind a memory, image, person, or experience related to the topic.",
+
+"When you share, include something connected to your senses, such as an image, memorable sound, or other physical sensation--beyond simply a definition of the topic. Engaging your senses will help you bring your whole self to the conversation.",
+
+"Give each person a chance to share their backstory without interruption. Everyone is coming from a different set of life experiences so there's no judgment, and no need to comment on the stories. To engage well with others' stories, think of them as ways to understand each other better, and practice holy curiosity about what God is doing in the person's life in your spiritual journey together."
+],
+
+"moment":[
+"Take a moment for spiritual focus together. Tap on the suggested meditation above to see the guide.",
+
+"Use the minute timer to fully participate so you don't need to watch the clock.",
+
+"Tap 'Skip >>' to see a new option."
+],
+
+"pickScripInfo":[
+"Let someone choose a reading for today.",
+
+"Readings with open circles are new to this square, readings with filled circles are the ones this square has done before."
+],
+
+"rbr":[
+"The Bible was written to show us the way to restore our relationships with God and one another. Relational Bible reading helps us keep this purpose in mind.",
+
+"With your reading in mind, each person respond to a question from each section (God-human, human-human, self)."
+],
+"convoStartInfo":[
+"After the Relational Questions, each person pick a conversation starter for the group."
+],
+
+"rbrQ":[
+"Who or what is God to humanity?",
+
+"Who is humanity to God?",
+
+"How does God relate to humanity?",
+
+"How does humanity relate to God?",
+
+"How are people interacting in this story?",
+
+"How might we relate well with others?",
+
+"How does the reading connect with your life story?"
+],
+
+"rbrConvoStarters":[
+"What memory does the reading bring to mind?",
+"After reading, what do you want more of in your life?",
+"What would you need to change for this reading to be more real in your life?",
+"What did you like about the reading?",
+"What bothers you about the reading, or what did you not like?",
+"What challenges have you faced related to the reading or the topic?",
+"What facts shape how you interpret the reading? Why do you trust that information?",
+"What tool or life hack do you see in the reading that helps you walk with God?",
+"What does the reading inspire you to pray for?"
+],
+
+"action":[
+"Followers of Jesus live out a growing faith by taking concrete actions. Each person will pick an activity to try before you meet again.",
+
+"Start with a moment of silence to see if God brings to mind a specific action for your life.",
+
+"Tap the Listen button below for a brief listening meditation."
+],
+
+"listenToTheSpiritInfo":[
+"Take a deep breath and listen in the quiet for what is stirring in your mind, heart, or spirit for a minute. You can close your eyes, look at the candle, or look at the Scripture you just read.",
+
+"Does a specific person, situation, or concern come to mind?",
+
+"Remember that God knows the situation fully.",
+
+"Is there a action you feel prompted to take? If it's God's guidance for you, you'll feel a good kind of humble, with hope in God."
+],
+
+"actionQ":[
+"After today's convo, is there something you feel prompted to do?",
+
+"Write your idea in the box below and tap Save, or tap Browse ideas for relevant suggestions for this convo topic.",
+
+"Filter suggestions by personal Style to get more targeted ideas."
+],
+
+"closingPrayer":[
+"Pray for each other. You can pray free-form about each other's spiritual growth, specific concerns that came up today, or about actions you'll take this week.",
+
+"If the group is not yet comfortable praying aloud, the coach can pray for everyone and leave some quiet for people to silently add their own prayers.",
+
+"If you're pressed for time, you could end with a blessing, such as:",
+
+ "  Now may our Lord Jesus Christ himself and God our Father,",
+ "  who loved us, and by his grace gave us",
+ "  eternal comfort and a wonderful hope,",
+ "  comfort you and strengthen you",
+ "  in every good thing you do and say. Amen.",
+
+"End the conversation by confirming when you'll meet again."
+],
+
+"followupQInfo":[
+"Let everyone respond to the 2 Action Questions.",
+
+"Troubleshoot (optional) is for those who had obstacles, questions, or concerns about doing their action, including anything that got in the way of their doing it.",
+
+"If the group has time to go deeper, let each person pick a question from the Spiritual Growth questions and/or the Speak Into My Life questions.",
+
+"For the Speak Into My Life questions, let the person you're focusing on decide what questions they're open to hearing others' input about. They might say 'Let's focus on this question today,' or they might say, 'You can answer any of them!'"
+],
+
+"followupQ":[
+"1. What action did you pick?",
+
+"2. What happened?"
+],
+
+"troubleshootQ":[
+"1. What obstacles did you face in taking your action?",
+
+"2. What questions or concerns do you have about your action, or this topic?",
+
+"3. What would make this action work better for you?"
+],
+
+"actionLearningQ":[
+"1. Did you discover anything about God, yourself, or your community?",
+
+"2. How did the experience add to your perspective——about the topic or your life situation?",
+
+"3. What do you want to ask or tell God——about this topic or experience?"
+],
+
+"tellMe":[
+"1. What are you noticing about my spiritual life that you want to share?",
+
+"2. What is the Spirit stirring in you as you hear me talk?",
+
+"3. Do you have any concerns about how I'm listening to God on this?"
+],
+
+"starterQuestions":[
+"1. Share your name, your neighborhood (or a more interesting fun fact), and how you connected with this group.",
+
+"2. Tell us a little of your spiritual background.",
+
+"3. What helps you connect with God or spiritual life? (It could be people, places, practices, resources, etc.)"
+],
+
+"starterConnectWithGodInfo":[
+"Ask if someone would like to open the group with prayer. If no one volunteers, briefly pray aloud.",
+
+"If the group seems frazzled, give a moment of silence before you pray, and tell them you're going to have a moment of quiet."
+],
+
+"reviewQuestions":[
+"Look over your Photo Journal for this season. What stands out?",
+"Look over the actions you chose. What do you notice?",
+"What began to change in your relationship with God, or others?",
+"What are you thankful for from this journey?",
+"What would you change about this journey?",
+"What feels unfinished after this journey?",
+"What did you learn from someone else's journey?",
+"What is the Holy Spirit is saying to you now as you look back?",
+"What insight do you want to add to your Photo Journal?",
+"How did you see God's power at work in your life or community?",
+"What do you want to say to the group?",
+"What was a favorite moment from the journey together?",
+"What experiences helped you connect with God?",
+"Does the group want to do another journey, multiply, or something else?",
+"What actions or spiritual practices do you want to do regularly?",
+"How can we pray for you?",
+"What kind of support helps you grow spiritually?",
+"How can we serve your physical needs?",
+"What is the Spirit stirring in you as I share about my journey?",
+"What have you seen in me that's central to my identity in Christ?",
+"What do you notice about my spiritual journey that I might not see?"
+],
+
+"starterForCoaches":[
+"If your group doesn't know each other, it's normal for people to feel a bit uncertain about what to expect. It's helpful if you normalize (tell them it's normal and act like it's normal) that the group might be feeling a mix of emotions, including excitement, anticipation, nervousness, caution. Assure them that as you settle in as a group, you'll feel more comfortable together.",
+
+"Before you finish your gathering:",
+
+"1. Get Info. Make sure you have everyone's contact info and you've decided when you'll meet next.",
+
+"2. Pray. Ask for prayer requests and close with prayer. If the group is comfortable with group prayer, you can pray for each other."
+],
+
+"cycleIntro":[
+"This app is a tool to help you:",
+" • share personal stories",
+" • practice spiritual awareness and prayer",
+" • read the Bible relationally",
+" • take Spirit-led action",
+" • reflect on your actions together",
+" • celebrate what God is doing in your life.",
+
+"Each of these elements helps you to engage your spiritual life in a wholehearted, relational, Spirit-led way that helps you draw closer to God and grow into Christian maturity, not just in knowledge, but in character.",
+
+"Each group journey follows the same basic roadmap:"
+],
+
+"cycleInstructions":[
+"Recall a Backstory",
+"What has this topic meant to you in the past? Think of a person, place, or memory that captures something of your experience of this topic. Upload a photo and caption to your PhotoJournal that you can show the group.",
+
+
+"Convo",
+"Start by sharing backstories.",
+
+"Experience a brief practice for connecting with God spiritually.",
+
+"Do a relational Bible reading and discussion. In relational Bible reading, you'll pay attention for what the text tells you about God's relationship to humanity, human relationships, and how the reading relates to your life.",
+
+"Finally, choose an action step to do, and close the group with prayer.",
+
+
+"Take Action",
+"Do the action you chose. Notice what happened after you took your action, and make a God Story photo journal entry about it.",
+
+
+"Followup",
+"Share with the group what happened when you did your action. Reflect on your experiences together and troubleshoot any obstacles."
+],
+
+"starterWelcome":[
+"Hello and welcome to your spiritual journey together! This journey helps you to help others grow closer to God in a whole-life, relational way.",
+
+"Use this Starter Convo guide when your group is meeting for the first time or starting a new journey together. Feel free to skip questions or instructions that don't apply to your group now."
+],
+
+"enderAbout":[
+"Congratulations on completing this leg of your spiritual journey!",
+
+"Use the Celebration Convo guide after your group has tried a journey together to look back, celebrate, reflect, and decide next actions. Feel free to skip  questions or instructions that don't apply to your group now.",
+
+"'Let all that I am praise the Lord. May I never forget the good things he does for me.'",
+"       - Psalm 103:2 NLT"
+],
+
+"endFinishUp":[
+"Hello and welcome to your spiritual journey together! This journey helps you to help others grow closer to God in a whole-life, relational way.",
+
+"Use this Starter Convo guide when your group is meeting for the first time or starting a new journey together. Feel free to skip questions or instructions that don't apply to your group now."
+],
+
+"enderAbout":[
+"✔️ Get Info. Make sure you've decided on how and when you'll reconnect.",
+
+"✔️ Pray. Ask for prayer requests and close with prayer. Add a benediction if you wish, such as:",
+
+"  The Lord will keep you from all evil;",
+"      he will keep your life.",
+"  The Lord will keep your going out",
+"      and your coming in",
+"      from this time forth and forevermore.",
+"                          — Psalm 121:7–8"
+],
+
+"endConvoStartersInfo":[
+"1. Each person pick a question for everyone to answer from The App Experience section and a question from the Noticing God section.",
+
+"2. Based on how much time you have, use the other questions for discussion with the group. For example, choose a section and let each person answer one question from that section. For the Speak Into My Life section, let each person decide which (if any) questions they want others to answer about them.",
+
+"3. Discuss the Next Actions: What's Next? question."
+],
+
+"getAboutTheAppInfo":[
+"Everyone download the app if they haven't already.",
+
+"Go to the More > About > Introduction to The App, and read it together. Poke around the five tabs in the app: People, Convos, Actions, Journal, and More."
+],
+
+"usingTheAppPeople":[
+"Choose a group name.",
+
+"Go to the People section at let them change the square name and the people names by tapping the + in each section.",
+
+"If there's time, take or send photos of each other. Tap on each person, tap Edit, and tap Photo Library or Camera to add a photo for the person."
+],
+
+"usingTheAppConvos":[
+"Go to the Convo Guides tab and show them they're currently in a Starter Convo.",
+
+"Browse the available topics and agree on what topic you want to do next."
+],
+
+"usingTheAppBackstory":[
+"Tap on a convo thumbnail (or list item if you're in the list view).",
+
+"Open the About section and read it together.",
+
+"Open the Share Backstories section and notice that you can upload a backstory journal entry before the next meeting so you have a photo to show. Ask if anyone has questions about that."
+]
+}
 
 ]
