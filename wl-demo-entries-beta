@@ -1,4 +1,24 @@
 [
 
+{
+"caption": "My first entry",
+"date": "",
+"entryType": "Backstory",
+"notes": "When I was young, I experienced this.",
+"photo": "tree5small",
+"topicIDs": ["God & You"],
+"tags": ["childhood"]
+
+},
+
+{
+"caption": "My second entry",
+"date": "",
+"entryType": "God Story",
+"notes": "When I was in college, I experienced this.",
+"photo": "Jess",
+"topicIDs": ["God & You", "Jesus & Gospel"],
+"tags": ["college"]
+}
 
 ]
