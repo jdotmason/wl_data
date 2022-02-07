@@ -1,3 +1,23 @@
 [
 
+{        
+"id": "beta",
+"name": "Beta Tester",
+"duration": "Beta",
+"meetsTotal": 6,
+"photo": "tree3small",
+"topicIDs": [
+  "Begin", 
+  "God & You", 
+  "Jesus & Gospel", 
+  "End"
+  ],
+"summary": [
+  "Thank you for contributing to the development of this app!",
+  "This quick journey contains just two topics, plus Starter and Celebration convos, totaling 6 conversations.",
+  "May God bless you for your service to the Kingdom! 💛"
+  ],
+"tags": ["beta"]
+}
+
 ]
