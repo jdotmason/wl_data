@@ -112,9 +112,6 @@
 
 
 
-
-
-
 {
 "id": "act0201",
 "name": "Reflect on a cross",
@@ -161,71 +158,91 @@
 
 {
 "id": "act0205",
-"name": "Good morning, Jesus",
-"summary": "Mother Teresa famously started each day by saying, 'Good Morning, Jesus!' Doing so helps put God at the center of our daily life, rather than as just one of many aspects of life. Greeting Jesus in the morning also awakens our spirit to God's presence in our day.",
-"howTo":"Every day for at least 10 days, as soon as you are awake, say, 'Good morning, Jesus!' After the ten days, reflect on what changed in your perspective or priorities.",
-"tips":"- Make it a practice for a length of time, like 10-14 mornings, before evaluating if the practice is making any difference.",
-"styles": ["mystical"],
+"name": "Explore your gospel hope",
+"summary": "Think of a situation in your life or world that seems hopeless, and list ways that Jesus' life, death, or resurrection bring new hope into the situation.",
+"howTo":"Think about a situation in your life or community that seems hopeless. /r/rIn this activity you’re going to list ways Jesus’ death, resurrection, and presence in your life opens up new hope for this situation. The gospel gives us hope in two main ways: The hope of eternal life with God after we die, and the benefits of walking with Jesus through this life. /r/r/Reflect on any of the following questions: /r  How does the promise of eternal life give you hope in your situation? /r  How does your relationship with Jesus give you hope in your situation? /r  Because of the gospel, what are you now free from?  free for? /r  How does Jesus’ love for you change your priorities? /r  How does Jesus strengthen you in this situation? /r/rTake a moment of silence. What other hope does God bring to mind?",
+"tips":"You don't need to reflect on all the questions. You can pick questions that seem helpful for you now.",
+"styles": ["contemplative", "writing", "mystical"],
 "topicIDs": ["Jesus & Gospel"],
 "isCustom": false
 },
 
 {
 "id": "act0206",
-"name": "Good morning, Jesus",
-"summary": "Mother Teresa famously started each day by saying, 'Good Morning, Jesus!' Doing so helps put God at the center of our daily life, rather than as just one of many aspects of life. Greeting Jesus in the morning also awakens our spirit to God's presence in our day.",
-"howTo":"Every day for at least 10 days, as soon as you are awake, say, 'Good morning, Jesus!' After the ten days, reflect on what changed in your perspective or priorities.",
-"tips":"- Make it a practice for a length of time, like 10-14 mornings, before evaluating if the practice is making any difference.",
-"styles": ["mystical"],
+"name": "Tell a recent Jesus story",
+"summary": "Share with someone (besides your mentor or group) about how walking with Jesus has changed your perspective, practices, or priorities in a current situation in your life or community.", 
+"howTo":"Find a person with whom you can talk to about the difference Jesus is making in your life. /r/rThey might be a follower of Jesus, or they may be someone who doesn't follow Jesus but is interested in your life. /r/rShare both how you saw the situation before and how connecting with Jesus helps you see new hope now. /r/rFor this story, choose a recent situation or current challenge, rather than the testimony of how you first came to follow Jesus.",
+"tips":"Ask God to put someone on your heart to share a story with. If you're not sure if a person is interested and paying attention, start with something like, 'My perspective has changed recently on... '. If they're interested, they'll ask you to share more. If not, let it go and ask God to when you can share it at another time or with another person.",
+"styles": ["social", "speaking"],
 "topicIDs": ["Jesus & Gospel"],
 "isCustom": false
 },
 
 {
 "id": "act0207",
-"name": "Good morning, Jesus",
-"summary": "Mother Teresa famously started each day by saying, 'Good Morning, Jesus!' Doing so helps put God at the center of our daily life, rather than as just one of many aspects of life. Greeting Jesus in the morning also awakens our spirit to God's presence in our day.",
-"howTo":"Every day for at least 10 days, as soon as you are awake, say, 'Good morning, Jesus!' After the ten days, reflect on what changed in your perspective or priorities.",
-"tips":"- Make it a practice for a length of time, like 10-14 mornings, before evaluating if the practice is making any difference.",
-"styles": ["mystical"],
+"name": "Practice hope in Christ-in-you",
+"summary": "Read Jesus' commands as promises of what God can do in your life.",
+"howTo":"Pick a Bible passage that includes Jesus commanding his followers to practice or avoid certain behaviors. /r/When you get to Jesus' command, instead of reading it as 'I have to work hard to get myself to do x,' try reading it as, 'by the power of Jesus alive in me (or my faith community), I (or we) will soon be able to do x!' /r/rNotice how it changes your attitude towards God. /r/rSay a prayer, confessing your human instincts to Jesus, and admitting that you are unable to fully obey without his strength. /r/rMake a note of anything you were able to do differently this week, and how it felt.",
+"tips":"You may have well-worn habits that pull you to an old way of doing things, and an instinctive fear of the new. For this exercise, when you feel that tug between the old and the new, ask the Holy Spirit to help you trust that God will do something good through the new way.",
+"styles": ["research", "contemplative"],
 "topicIDs": ["Jesus & Gospel"],
 "isCustom": false
 },
 
 {
 "id": "act0208",
-"name": "Good morning, Jesus",
-"summary": "Mother Teresa famously started each day by saying, 'Good Morning, Jesus!' Doing so helps put God at the center of our daily life, rather than as just one of many aspects of life. Greeting Jesus in the morning also awakens our spirit to God's presence in our day.",
-"howTo":"Every day for at least 10 days, as soon as you are awake, say, 'Good morning, Jesus!' After the ten days, reflect on what changed in your perspective or priorities.",
-"tips":"- Make it a practice for a length of time, like 10-14 mornings, before evaluating if the practice is making any difference.",
-"styles": ["mystical"],
+"name": "Design your own gospel mini comic or art series",
+"summary": "Create your own cartoon style description of the Gospel",
+"howTo":"There are many booklets and pamphlets that explain the good news of Jesus in 8-10 pictures. Pray and ask God for creative inspiration. Then create your own visual summary of the Gospel, the good news about Jesus as both savior and Lord. /r/rTry to include God, the fall into sin, Jesus, the cross, love, and eternal life in some way. /r/rWhen you're done, use your mini to explain the gospel to someone",
+"tips":"You can make cartoon drawings, mini scultpures, digital images, colored beads, or other medium. Get creative! Captions are optional.",
+"styles": ["creative", "speaking"],
 "topicIDs": ["Jesus & Gospel"],
 "isCustom": false
 },
 
 {
 "id": "act0209",
-"name": "Good morning, Jesus",
-"summary": "Mother Teresa famously started each day by saying, 'Good Morning, Jesus!' Doing so helps put God at the center of our daily life, rather than as just one of many aspects of life. Greeting Jesus in the morning also awakens our spirit to God's presence in our day.",
-"howTo":"Every day for at least 10 days, as soon as you are awake, say, 'Good morning, Jesus!' After the ten days, reflect on what changed in your perspective or priorities.",
-"tips":"- Make it a practice for a length of time, like 10-14 mornings, before evaluating if the practice is making any difference.",
-"styles": ["mystical"],
+"name": "Notice Jesus in others",
+"summary": "Ask God to show you how someone in your life reflects Jesus.",
+"howTo":"Everyone who is a follower of Jesus reflects something of Jesus—his unsullied humanity, his attitude towards people, his reflection of God’s character. Choose a person and ask God to show you something in them that reflects Jesus to you. /r/rFeel free to tell them how you see Jesus in them. /r/rIf there's a Scripture verse that talks about that aspect of Jesus, you can tell them that Scripture reminds you of how they reflect Jesus. /r/rNotice their reaction. If it seems positive, you can smile back. If they seem confused or self-deprecating, let them know what visible behaviors you've seen that makes you connect them with Jesus.",
+"tips":"People are often hesitant to consider themselves Christ-like. But some people have truly never been told anything positive about how they reflect Jesus. Try not to take a rebuff personally. If you were right, they may come to accept their resemblance to Jesus later. But you can also ask if you're off-base or why they don't think it's true. They may be correct, so you've gotten to know them better, or they may not be aware of what's true. Either way, being right isn't as important as knowing and appreciating them for who they are.",
+"styles": ["mystical", "speaking", "social"],
 "topicIDs": ["Jesus & Gospel"],
 "isCustom": false
 },
 
 {
 "id": "act02010",
-"name": "Good morning, Jesus",
-"summary": "Mother Teresa famously started each day by saying, 'Good Morning, Jesus!' Doing so helps put God at the center of our daily life, rather than as just one of many aspects of life. Greeting Jesus in the morning also awakens our spirit to God's presence in our day.",
-"howTo":"Every day for at least 10 days, as soon as you are awake, say, 'Good morning, Jesus!' After the ten days, reflect on what changed in your perspective or priorities.",
+"name": "Compare rates of Jesus followers among people groups. ",
+"summary": "Use data on joshuaproject.net to compare the number of followers of Jesus among different peoples.", 
+"howTo":"Visit joshuaproject.net and choose a country, region, or people group. Notice how many followers of Jesus are there. Compare that with other regions or with your own home country or people group. /r/rPray for a nation and people you looked up, based on the prayer recommendations on the site.",
 "tips":"- Make it a practice for a length of time, like 10-14 mornings, before evaluating if the practice is making any difference.",
-"styles": ["mystical"],
+"styles": ["research", "analytical"],
 "topicIDs": ["Jesus & Gospel"],
 "isCustom": false
 },
 
+{
+"id": "act02011",
+"name": "Practice Jesus' habit of valuing people society looks down on",
+"summary": "Spend some time with a person or people who are looked down on by society and keep Jesus' perspective in mind.", 
+"howTo":"Jesus spent significant time among the poor and marginalized people of his day. He seemed to see their value where others were blind to it or ignored it. Jesus recognized that every person is made in the image of God and that life history or humble circumstances, like crumpling a $100 bill, cannot take away their inherent worth. He saw beyond what makes society look down on them, to the essence of who he created them to be in eternity. /r/rSpend time with people society or your community looks down on, and ask God to help you see them through Jesus' eyes. /r/rNotice their uniqueness, their aspirations, or aspects of their humanity that you identify with. /r/rShare with someone else about your day or your experience, and try describing the people you spent time with first by their unique qualities or aspirations, not at first by what makes them marginalized. For example, 'I met this guy today with this amazing sense of humor. He wants to find a peaceful home and this is the obstacle he's facing' rather than 'I met a homeless guy today'.",
+"tips":"For more inspiration on seeing the value in others, look up from Trabian Shorters, who has made a life's mission out of viewing people through the lens of their contributions and aspirations rather than their marginalized status.",
+"styles": ["advocate", "social", "speaking"],
+"topicIDs": ["Jesus & Gospel"],
+"isCustom": false
+},
 
+{
+"id": "act02012",
+"name": "Pull away for prayer like Jesus",
+"summary": "Find a secluded spot outside to pray.", 
+"howTo":"After Jesus ministered to a lot of people, he often withdrew to secluded outdoors places to reconnect with God and be refreshed. /r/rFind a place outside not too far from you where you can go for between 30 minutes and three hours. /r/rBring a Bible and a journal if you use one. /r/rOpen your time by acknowledging the presence of God. If you're thoughts are elsewhere, reading a Psalm can help you focus your spirit on God's presence. /r/rShare with God anything that concerns you, what you're thankful for, or what you're learning. Leave lots of space and quiet to calm your heart and body and to listen for anything the Spirit may stir in your heart, either reasurances, wisdom, leading to what's next, or additional things that you and God need to deal with together. /r/rNotice any ways the natural setting opens you up to God in a special way. /r/rYou can also imagine some of what Jesus might have felt as he withdrew to be with God outdoors.",
+"tips":"Don't feel the need to accomplish a ton. This practice is about resting with God. Just being in God's presence and connecting (verbally or not) with God is what's important. But if things seem unpleasantly 'blank' and you're not connecting with God's presence, try reading another Psalm and see what feelings or challenges resonate with your life, and talk to God about that.",
+"styles": ["rest", "sensory", "contemplative"],
+"topicIDs": ["Jesus & Gospel"],
+"isCustom": false
+},
 
 {
 "id": "act1201",
