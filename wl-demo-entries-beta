@@ -12,16 +12,6 @@
 },
 
 {
-"caption": "My second entry",
-"date": "",
-"entryType": "God Story",
-"notes": "When I was in college, I experienced this.",
-"photo": "Jess",
-"topicIDs": ["God & You", "Jesus & Gospel"],
-"tags": ["college"]
-},
-
-{
 "caption": "A humble heart can reduce some anxieties.",
 "date": "",
 "entryType": "Insight",
@@ -29,6 +19,16 @@
 "photo": "Jess",
 "topicIDs": ["God & You", "Jesus & Gospel"],
 "tags": ["emotions", "idols"]
+},
+
+{
+"caption": "My second entry",
+"date": "",
+"entryType": "God Story",
+"notes": "When I was in college, I experienced this.",
+"photo": "Jess",
+"topicIDs": ["God & You", "Jesus & Gospel"],
+"tags": ["college"]
 }
 
 ]
