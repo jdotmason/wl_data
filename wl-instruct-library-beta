@@ -64,7 +64,7 @@
 },
 
 {
-"id":"rbrQ",
+"id":"rbrQvertical",
 "contents":[
 "Who or what is God to humanity?",
 
@@ -72,18 +72,28 @@
 
 "How does God relate to humanity?",
 
-"How does humanity relate to God?",
-
-"How are people interacting in this story?",
-
-"How might we relate well with others?",
-
-"How does the reading connect with your life story?"
+"How does humanity relate to God?"
 ],
 "tags":["scripture"]
 },
 
+{
+"id":"rbrQhorizontal",
+"contents":[
+"How are people interacting?",
 
+"How might we relate well with others?"
+],
+"tags":["scripture"]
+},
+
+{
+"id":"rbrQself",
+"contents":[
+"How does the reading connect with your life story?"
+],
+"tags":["scripture"]
+},
 
 {
 "id":"rbrConvoStarters",
