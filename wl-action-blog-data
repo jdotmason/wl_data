@@ -1,1 +1,11 @@
-
+[
+{
+"id":"act0101",
+"name": "Ask someone following Jesus about their backstory with God",
+"summary": "Get to know the God of the Bible better by hearing real life stories of God connecting with people you know.",
+"urlString":"https://www.spiritualgrowth.life/wl-actions/blog-post-title-one-rmlap",
+"styles": ["speaking", "social"],
+"topicIDs": ["Jesus & Gospel"],
+"isCustom": false
+}
+]
