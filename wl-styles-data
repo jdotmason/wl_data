@@ -1,0 +1,102 @@
+[
+{
+"id":"advanced",
+"icon":"⛰",
+"name":"advanced",
+"summary": "For those already experienced with basic Christian practices."
+},
+
+{
+"id":"advocating",
+"icon":"✊",
+"name":"advocating",
+"summary":"Work, advocate, or mobilize for Jesus-inspired justice and community thriving."
+},
+
+{
+"id":"analytical",
+"icon":"🔢",
+"name":"analytical",
+"summary":"Examine your life with God through assessment, comparisons, and categorizing."
+},
+
+{
+"id":"contemplative",
+"icon":"🤔",
+"name":"contemplative",
+"summary": "Explore your life with God by making mental connections and searching for meaning."
+},
+
+{
+"id":"creative",
+"icon":"🎨",
+"name":"creative",
+"summary":"Express your life with God through creative work or play."
+},
+
+{
+"id":"custom",
+"icon":"",
+"name":"custom",
+"summary": "Actions I felt prompted to do specific to my life."
+},
+
+{
+"id":"mystical",
+"icon":"💨",
+"name":"mystical",
+"summary":"Ground your life with God through a conscious spiritual connection with God's Holy Spirit."
+},
+
+{
+"id":"physical",
+"icon":"💪",
+"name":"physical",
+"summary":"Embody your life with God through movement, physical service, traveling, or building something."
+},
+
+{
+"id":"research",
+"icon":"📚",
+"name":"research",
+"summary":"Clarify your life with God by gathering information."
+},
+
+{
+"id":"restful",
+"icon":"😌",
+"name":"restful",
+"summary":"Find rest in God, let go of toxic things, prune good things, and practice healthy life rhythms."
+},
+
+{
+"id":"sensory",
+"icon":"🧠",
+"name":"sensory",
+"summary":"Experience your life with God through the five senses."
+},
+
+{
+"id":"social",
+"icon":"👋",
+"name":"social",
+"summary":"Share your life with God by spending time with others in friendship or service."
+},
+
+{
+"id":"speaking",
+"icon":"🗣",
+"name":"speaking",
+"summary":"Share your life with God by talking with others."
+},
+
+{
+"id":"writing",
+"icon":"✍️",
+"name":"writing",
+"summary":"Express your life with God by journaling or other writing."
+}
+
+]
+
+
