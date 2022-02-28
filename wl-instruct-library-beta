@@ -205,11 +205,11 @@
 },
 
 {
-"id":"followupQ",
+"id":"followupActionQ",
 "contents":[
 "1. What action did you pick?",
 
-"2. What happened?"
+"2. What happened? Show your God Story picture if you have one."
 ],
 "tags":["followup"]
 },
