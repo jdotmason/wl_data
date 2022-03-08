@@ -2,7 +2,7 @@
 {
 "id":"welcomeToConvo",
 "contents":[
-"Welcome! This guide walks you through a conversation, relational Bible reading, action step, and story-sharing experience."
+"Welcome! This guide walks you through a conversation, relational Bible reading, action step, and story-sharing experience. It takes place over two meetings, a Main convo and a Followup convo. As you go through the convos, the tiles in the middle will automatically fill in."
 ],
 "tags":[""]
 },
@@ -193,13 +193,13 @@
 {
 "id":"followupQInfo",
 "contents":[
-"Everyone respond to the Action Stories questions.",
+"God Stories - Everyone responds.",
 
-"Troubleshoot (optional) - for those who had obstacles, questions, or concerns about doing their action, including anything that got in the way of their doing it.",
+"Troubleshoot -  Optional for those who had obstacles, questions, or concerns about doing their action, including anything that got in the way of their doing it.",
 
-"Spiritual Growth - if the group has time to go deeper.",
+"Spiritual Growth - Use with however much if the group has to explore what God is doing through this journey or in each others lives.",
 
-"Speak Into My Life - let the person you're focusing on decide what questions they're open to hearing others' input about. They might say 'Let's focus on this question today,' or they might say, 'You can answer any of them!'"
+"Speak Into My Life - Let each person decide what questions they're open to input about. They might say 'Let's focus on this question today,' or they might say, 'You can answer any of them for me!'"
 ],
 "tags":["followup"]
 },
