@@ -163,5 +163,183 @@
 "start":"7",
 "end":"18",
 "topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0203",
+"phrase":"We'll inherit immortal bodies",
+"version":"",
+"book":"1 Corinthians",
+"chapter":"15",
+"start":"42",
+"end":"57",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0204",
+"phrase":"Sheep back to the Shepherd",
+"version":"",
+"book":"1 Peter",
+"chapter":"2",
+"start":"24",
+"end":"25",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0205",
+"phrase":"We're a new creation",
+"version":"",
+"book":"2 Corinthians",
+"chapter":"5",
+"start":"16",
+"end":"21",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0206",
+"phrase":"God raised Jesus from the dead",
+"version":"",
+"book":"Acts",
+"chapter":"2",
+"start":"22",
+"end":"41",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0207",
+"phrase":"Hope & power for all who believe",
+"version":"",
+"book":"Ephesians",
+"chapter":"1",
+"start":"18",
+"end":"21",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0208",
+"phrase":"We're God's children and heirs",
+"version":"",
+"book":"Galatians",
+"chapter":"3",
+"start":"23",
+"end":"29",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0209",
+"phrase":"We're adopted into God's family",
+"version":"",
+"book":"Galatians",
+"chapter":"4",
+"start":"4",
+"end":"7",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0210",
+"phrase":"Go bodly to God for grace",
+"version":"",
+"book":"Hebrews",
+"chapter":"10",
+"start":"19",
+"end":"25",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0211",
+"phrase":"Jesus is the vine, we're the branches",
+"version":"",
+"book":"John",
+"chapter":"15",
+"start":"8",
+"end":"8",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0212",
+"phrase":"Not servants, friends who can ask God",
+"version":"",
+"book":"John",
+"chapter":"15",
+"start":"9",
+"end":"17",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0213",
+"phrase":"God gave his only Son",
+"version":"",
+"book":"John",
+"chapter":"3",
+"start":"16",
+"end":"21",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0214",
+"phrase":"Jesus promises us eternal life",
+"version":"",
+"book":"Matthew",
+"chapter":"19",
+"start":"27",
+"end":"30",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0215",
+"phrase":"We're saved through faith in Jesus",
+"version":"",
+"book":"Romans",
+"chapter":"4",
+"start":"13",
+"end":"25",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0216",
+"phrase":"Christ lives in all his followers",
+"version":"",
+"book":"Romans",
+"chapter":"8",
+"start":"10",
+"end":"11",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0217",
+"phrase":"We're freed from condemnation",
+"version":"",
+"book":"Romans",
+"chapter":"8",
+"start":"33",
+"end":"39",
+"topicID":"Jesus & Gospel"
+},
+
+{
+"id":"s0218",
+"phrase":"In God’s mercy, we're heirs",
+"version":"",
+"book":"Titus",
+"chapter":"3",
+"start":"3",
+"end":"7",
+"topicID":"Jesus & Gospel"
 }
+
 ]
+
