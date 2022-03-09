@@ -26,6 +26,13 @@
 "question":"Can I add a photo from the internet to my PhotoJournal?",
 "answer":"Find the photo you like in your phone's internet browser.   \r\rTake a screenshot by pressing the phone's right button and volume up button at the same time.   \r\rCrop the screenshot down to the image you want.  \r\rSave it to your photos.  \r\rIn the Whole Life app, in the Add Entry page, select Photo Library to find your new screenshot.",
 "tags":["photos", "photo journal", "entries"]
+},
+
+{
+"id":"faq005",
+"question":"How do I delete unwated items?",
+"answer":"If it's a photojournal entry or action, go to the corresponding tab and tap the list icon in the top right. Find the item you want to delete, and swipe left.  \r\rTo delete a person or a pod, you first need to archive them as inactive.   \r  For a person, tap on the person's face to get to the person's detail view.    \rTap Edit.   \rScroll to the bottom and check 'Archive Person as Inactive'.  \rYou can now delete as above by going to the People Tab and tap the list icon in the top left.   \rFind the person you want to delete and swipe left.   \rNOTE: You don't need to delete an inactive person if you might meet with them later.   \r\rTo delete a pod, do the same as a person, but go to the pod's detail view instead of the person to find 'Archive This Square As Inactive.'",
+"tags":["photos", "photo journal", "entries"]
 }
 
 ]
