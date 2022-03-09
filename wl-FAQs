@@ -19,6 +19,13 @@
 "question":"How many people are in a group/pod?",
 "answer":"Pods (groups) have 2-4 people, including you.   \r\rThis size makes space for everyone to share their stories and allows spiritual mentoring to be personal.",
 "tags":["groups"]
+},
+
+{
+"id":"faq004",
+"question":"Can I add a photo from the internet to my PhotoJournal?",
+"answer":"Find the photo you like in your phone's internet browser.   \r\rTake a screenshot by pressing the phone's right button and volume up button at the same time.   \r\rCrop the screenshot down to the image you want.  \r\rSave it to your photos.  \r\rIn the Whole Life app, in the Add Entry page, select Photo Library to find your new screenshot.",
+"tags":["groups"]
 }
 
 ]
