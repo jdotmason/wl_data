@@ -3,14 +3,14 @@
 {
 "id":"begin00",
 "topicID":"Begin",
-"name":"Intro",
+"name":"Starter Convo",
 "available":true,
 "keywords":"",
-"subtitle":"Connect as a Group",
+"subtitle":"Getting Ready for a New Journey",
 "summary":"In this first meeting, connect with your group and decide on your journey together.",
 "explores":["What's new in our lives?", "What do we want to focus on?"],
 "photo":"open",
-"tags":["Start"],
+"tags":["Start", "Coaching"],
 "scrips":[]
 },
 
@@ -271,10 +271,10 @@
 {
 "id": "topic18",
 "topicID" : "Parenting",
-"name": "Helping Others Grow",
+"name": "Parenting With Jesus",
 "available": false,
 "keywords": "",
-"subtitle": "Mentoring & Parenting",
+"subtitle": "Guidance & Care",
 "summary": "",
 "explores": [""],
 "photo": "grey",
@@ -284,11 +284,11 @@
 
 {
 "id": "topic20",
-"topicID" : "Mentoring & Leadership",
-"name": "Serve by Leading",
+"topicID" : "Mentoring & Leading",
+"name": "Mentoring & Leading",
 "available": false,
 "keywords": "",
-"subtitle": "Spiritual Leadership Jesus' Way",
+"subtitle": "Servant Leadership Jesus' Way",
 "summary": "",
 "explores": [""],
 "photo": "grey",
@@ -298,7 +298,7 @@
 
 {
 "id": "topic21",
-"topicID" : "General",
+"topicID" : "Other Topics",
 "name": "All Things Lead Me To God",
 "available": false,
 "keywords": "",
@@ -306,7 +306,7 @@
 "summary": "Use this topic for a conversation about an issue going on in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
 "explores": [""],
 "photo": "grey",
-"tags": ["General"],
+"tags": ["Coaching"],
 "scrips":[]
 },
 
@@ -321,21 +321,35 @@
 "summary": "Learn to facilitate Bible-based spiritual growth that is emotionally intelligent, spirit-led, and action-oriented.",
 "explores": ["How does this app work?", "What do I need to learn to coach others?"],
 "photo": "loveyourlife",
-"tags": ["General"],
+"tags": ["Coaching"],
+"scrips":[]
+},
+
+{
+"id": "topic22",
+"topicID" : "Coach Connect",
+"name": "Coach Connect",
+"available": false,
+"keywords": "spiritual mentoring, discipleship, or helping others grow spiritually",
+"subtitle": "God Stories & Troubleshooting",
+"summary": "Connect with other coaches for story sharing, toubleshooting, and prayer.",
+"explores": ["What is God doing in your pods?", "How can your pod support you?"],
+"photo": "loveyourlife",
+"tags": ["Coaching"],
 "scrips":[]
 },
 
 {        
 "id": "end00",
 "topicID" : "End",
-"name": "Conclusion",
+"name": "Celebration",
 "available": false,
 "keywords": "",
-"subtitle": "Wrap Up & Celebrate",
+"subtitle": "Look Back & Next Actions",
 "summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
 "explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
 "photo": "fireworks",
-"tags": ["End"],
+"tags": ["End", "Coaching"],
 "scrips":[]
 }
 
