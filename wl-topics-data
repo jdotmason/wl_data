@@ -10,7 +10,7 @@
 "summary":"In this first meeting, connect with your group and decide on your journey together.",
 "explores":["What's new in our lives?", "What do we want to focus on?"],
 "photo":"open",
-"tags":["Start", "Coaching"],
+"tags":["Start", "General"],
 "scrips":[]
 },
 
@@ -306,7 +306,7 @@
 "summary": "Use this topic for a conversation about an issue going on in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
 "explores": [""],
 "photo": "grey",
-"tags": ["Coaching"],
+"tags": ["General"],
 "scrips":[]
 },
 
@@ -349,7 +349,7 @@
 "summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
 "explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
 "photo": "fireworks",
-"tags": ["End", "Coaching"],
+"tags": ["End", "General"],
 "scrips":[]
 }
 
