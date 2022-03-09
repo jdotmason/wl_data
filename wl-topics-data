@@ -343,7 +343,7 @@
 "id": "end00",
 "topicID" : "End",
 "name": "Celebration",
-"available": false,
+"available": true,
 "keywords": "",
 "subtitle": "Look Back & Next Actions",
 "summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
