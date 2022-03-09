@@ -31,7 +31,7 @@
 {
 "id":"faq005",
 "question":"How do I delete unwated items?",
-"answer":"If it's a photojournal entry or action, go to the corresponding tab and tap the list icon in the top right. Find the item you want to delete, and swipe left.  \r\rTo delete a person or a pod, you first need to archive them as inactive.   \r  For a person, tap on the person's face to get to the person's detail view.    \rTap Edit.   \rScroll to the bottom and check 'Archive Person as Inactive'.  \rYou can now delete as above by going to the People Tab and tap the list icon in the top left.   \rFind the person you want to delete and swipe left.   \rNOTE: You don't need to delete an inactive person if you might meet with them later.   \r\rTo delete a pod, do the same as a person, but go to the pod's detail view instead of the person to find 'Archive This Square As Inactive.'",
+"answer":"DELETE A PHOTJOURNAL ENTRY OR ACTION.\r\rGo to the corresponding tab and tap the list icon in the top right. Find the item you want to delete, and swipe left.  \r\rDELETE A PERSON OR POD\r\rYou first need to archive them as inactive. Active persons or pods are protected from deletion.   \r\r. For a person, tap on the person's face to get to the person's detail view.    \r  Tap Edit.   \r. Scroll to the bottom and check 'Archive Person as Inactive'.  \r  Go to the People Tab and tap the list icon in the top left.   \r  Find the person you want to delete and swipe left.   \r  NOTE: You don't need to delete an inactive person if you might meet with them later.   \r\rTo delete a pod, do the same as a person, but go to the pod's detail view instead of the person to find 'Archive This Square As Inactive.'",
 "tags":["photos", "photo journal", "entries"]
 }
 
