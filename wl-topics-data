@@ -270,7 +270,7 @@
 
 {
 "id": "topic18",
-"topicID" : "Mentoring & Parenting",
+"topicID" : "Parenting",
 "name": "Helping Others Grow",
 "available": false,
 "keywords": "",
@@ -284,7 +284,7 @@
 
 {
 "id": "topic20",
-"topicID" : "Spiritual Leadership",
+"topicID" : "Mentoring & Leadership",
 "name": "Serve by Leading",
 "available": false,
 "keywords": "",
