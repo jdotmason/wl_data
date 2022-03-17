@@ -4,7 +4,7 @@
 "id":"faq001",
 "question":"Can I use this app without a group?",
 "answer":"The app guides a shared experience, including conversations.  \r\rIt's designed for use by pods of 2-4 (including you), so feel free to use it for on-on-one conversations. \r\rWhile you could use the app just for spiritual photo journaling without others, the goal for the app is to guide relational Bible reading, story sharing, and mutual support our spiritual journeys.",
-"tags":["groups"]
+"tags":["groups", "pods"]
 },
 
 {
@@ -18,7 +18,7 @@
 "id":"faq003",
 "question":"How many people are in a group/pod?",
 "answer":"Pods (groups) have 2-4 people, including you.   \r\rThis size makes space for everyone to share their stories and allows spiritual mentoring to be personal.",
-"tags":["groups"]
+"tags":["groups", "pods"]
 },
 
 {
@@ -33,6 +33,13 @@
 "question":"How do I delete unwanted items?",
 "answer":"DELETE A PHOTJOURNAL ENTRY OR ACTION\r\rGo to the corresponding tab and tap the list icon in the top right. Find the item you want to delete, and swipe left.  \r\rDELETE A PERSON OR POD\r\rYou first need to archive them as inactive. Active persons or pods are protected from deletion.   \r\rFor a PERSON, tap on the person's face to get to the person's detail view.    \r\rTap Edit.   \r\rScroll to the bottom and check 'Archive Person as Inactive'.  \r\rGo to the People Tab and tap the list icon in the top left.   \r\rFind the person you want to delete and swipe left.  \r\rTo delete a POD, do the same as a person, but go to the pod's detail view instead of the person to find 'Archive This Square As Inactive.'\r\rNOTE: If you delete a pod or person, you will lose your entire history with them. We recommend you only delete persons or pods that are 'junk' or were entered in error. You don't need to delete an inactive person or pod if you might meet with them later. Inactive persons and pods are hidden so they won't clutter up your views.",
 "tags":["photos", "photo journal", "entries"]
+},
+
+{
+"id":"faq006",
+"question":"How often do pods meet?",
+"answer":"At least twice a month. Less often than that and it's difficult to develop a good connection and avoid spending most of your time catching up. /r/rIf you're able, meeting in person each time is great. If this is not possible, you might choose to do the main convo in person and the followup over video call. If you're remote, you could have both over video call. /r/rMeeting sometimes over video call may help if consistency is a problem.",
+"tags":["groups", "pods", "convos"]
 }
 
 ]
