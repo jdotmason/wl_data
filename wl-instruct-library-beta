@@ -272,6 +272,25 @@
 },
 
 {
+"id":"starterPrayAndClose",
+"contents":[
+"Ask if anyone has prayer requests for the upcoming week, and take notes. You can make group notes on the pod's page.",
+
+"Ask if someone would like to open the group with prayer, and offer to close. If no one volunteers, pray for each person in the group.",
+
+"If you're pressed for time, you can close with a brief blessing, such as:",
+
+"  'Now, may the God of hope fill you with ",
+"   all joy and peace as you trust in him, ",
+"   so that you may overflow with hope ",
+"   by the power of the Holy Spirit.'",
+
+"Finish the group by deciding when you'll meet next."
+],
+"tags":["starter"]
+},
+
+{
 "id":"reviewQuestions",
 "contents":[
 "Look over your Photo Journal for this season. What stands out?",
