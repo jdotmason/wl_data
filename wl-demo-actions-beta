@@ -1,19 +1,7 @@
 [
-
-{
-"id": "act0001",
-"name": "Set up my profile",
-"summary": "Go to the Profile page to add a photo and details.",
-"howTo": "- In the People tab, tap on the profile icon in the top right. \r- Tap Edit to change values. \r- Tap Done to save your changes.",
-"tips": "- Your Profile picture will show up in every pod, on your phone only.",
-"styles": [],
-"topicIDs": ["Coaching"],
-"isCustom": false
-},
-
 {
 "id":"act0101",
-"name": "Ask a follower of Jesus about their backstory with God",
+"name": "Sample Action: Ask a follower of Jesus about their backstory with God",
 "summary": "Get to know the God of the Bible better by hearing real life stories of God connecting with people you know.",
 "howTo":"Ask someone you know who is a follower of Jesus what God means to them.\r\r - What is their spiritual background? \r\r - What role(s) does God play in their life now?",
 "tips":"If they ask, you could also share with them what you’re learning about God or experiencing of God.",
