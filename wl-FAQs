@@ -47,6 +47,22 @@
 "question":"How can I use Instagram with this app?",
 "answer":"In the current version, you can upload an Instagram post that is saved in your camera roll by selecting Photo Library when you go to add a Backsotry of God Story to your photojournal. For an Instagram story, you can go into the Story settings and turn on Save Story to Camera Roll. Then select in Whole Life, select Photo Library when adding an entry to your photojournal. In future releases, we plan to enable Share To... in Instragram to send directly to the Whole Life photojournal and vice versa.",
 "tags":["photos", "photojournal", "social media"]
+},
+
+{
+"id":"faq007",
+"question":"How can I use Instagram with this app?",
+"answer":"In the current version, you can upload an Instagram post that is saved in your camera roll by selecting Photo Library when you go to add a Backsotry of God Story to your photojournal. For an Instagram story, you can go into the Story settings and turn on Save Story to Camera Roll. Then select in Whole Life, select Photo Library when adding an entry to your photojournal. In future releases, we plan to enable Share To... in Instragram to send directly to the Whole Life photojournal and vice versa.",
+"tags":["photos", "photojournal", "social media"]
+},
+
+{
+"id":"faq008",
+"question":"Why is the app called Whole Life?",
+"answer":"First, I wanted to create an app that allowed for spiritual growth conversation about every aspect of life. The twenty topics are intended to cover our whole lives so that there's no aspect of living as a follower of Jesus that users don't have a place to talk about. \r\rSecond, I believe that we find whole life, or fullness of life, as we grow in relationship with God, one another, and the created world.\r\rThis app is not affiliated with the whole life movement.",
+"tags":["app", "name", "affiliations"]
 }
+
+
 
 ]
