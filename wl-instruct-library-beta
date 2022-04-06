@@ -2,7 +2,8 @@
 {
 "id":"welcomeToConvo",
 "contents":[
-"Welcome! This guide walks you through a conversation, relational Bible reading, action step, and story-sharing experience. It takes place over two meetings, a Main convo and a Followup convo. As you go through the convos, the tiles in the middle will automatically fill in."
+"Welcome!",
+"This guide walks you through a conversation, relational Bible reading, action step, and story-sharing experience. It takes place over two meetings, a Main convo and a Followup convo. As you go through the convos, the tiles in the middle will automatically fill in."
 ],
 "tags":[""]
 },
