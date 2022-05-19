@@ -4,10 +4,20 @@
 "id":"beta001",
 "name":"Boston Coahes' Pod Beta",
 "location":"Boston area Zoom",
-"openings":3,
+"openings":2,
 "coach":"Jess Mason",
-"tags":[""]
+"tags":[""],
+"members": ["Saranya S"]
+},
 
+{
+"id":"beta002",
+"name":"PSC Coaches",
+"location":"Boston area Zoom",
+"openings":0,
+"coach":"Jess Mason",
+"tags":[""],
+"members": ["Damian L", "Cindy C", "Roselle H"]
 }
 
 
