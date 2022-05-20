@@ -4,28 +4,28 @@
 "id":"faq001",
 "question":"Can I use this app without a group?",
 "answer":"The app guides a shared experience, including conversations.  \r\rIt's designed for use by pods of 2-4 (including you), so feel free to use it for on-on-one conversations. \r\rWhile you could use the app just for spiritual photo journaling without others, the goal for the app is to guide relational Bible reading, story sharing, and mutual support our spiritual journeys.",
-"tags":["groups", "pods"]
+"tags":["group", "pod"]
 },
 
 {
 "id":"faq002",
 "question":"Where do the conversations (convos) happen?",
 "answer":"Your conversations happen in real life——in person, over video, or phone.   \r\rThe app guides conversations, it doesn't replace them.",
-"tags":["convos"]
+"tags":["convo"]
 },
 
 {
 "id":"faq003",
 "question":"How many people are in a group/pod?",
 "answer":"Pods (groups) have 2-4 people, including you.   \r\rThis size makes space for everyone to share their stories and allows spiritual mentoring to be personal.",
-"tags":["groups", "pods"]
+"tags":["group", "pod"]
 },
 
 {
 "id":"faq004",
 "question":"Can I add a photo from the internet to my PhotoJournal?",
 "answer":"Find the photo you like in your phone's internet browser.   \r\rTake a screenshot by pressing the phone's right button and volume up button at the same time.   \r\rCrop the screenshot down to the image you want.  \r\rSave it to your photos.  \r\rIn the Whole Life app, in the Add Entry page, select Photo Library to find your new screenshot.",
-"tags":["photos", "photojournal", "entries"]
+"tags":["photo", "photojournal", "entry"]
 },
 
 {
@@ -39,21 +39,21 @@
 "id":"faq006",
 "question":"How often do pods meet?",
 "answer":"At least twice a month. Less often than that and it's difficult to develop a good connection and avoid spending most of your time catching up. /r/rIf you're able, meeting in person each time is great. If this is not possible, you might choose to do the main convo in person and the followup over video call. If you're remote, you could have both over video call. /r/rMeeting sometimes over video call may help if consistency is a problem.",
-"tags":["groups", "pods", "convos"]
+"tags":["group", "pod", "convo"]
 },
 
 {
 "id":"faq007",
 "question":"How can I use Instagram with this app?",
 "answer":"For Instagram posts saved in your camera roll, tap Photo Library when you add an entry to your Whole Life photojournal. \r\rFor an Instagram story, go into the Story Settings and turn on Save Story to Camera Roll. Then in Whole Life, tap Photo Library when adding an entry to your photojournal. \r\rFuture releases will enable Share To... in Instagram to send directly to the Whole Life photojournal and vice versa.",
-"tags":["photos", "photojournal", "social media"]
+"tags":["photo", "photojournal", "social media"]
 },
 
 {
 "id":"faq008",
 "question":"Why is the app called Whole Life?",
 "answer":"First, I wanted to create an app that allowed for spiritual growth conversation about every aspect of life. The twenty topics are intended to cover our whole lives so that there's no aspect of living as a follower of Jesus that users don't have a place to talk about. \r\rSecond, I believe that we find whole life, or fullness of life, as we grow in relationship with God, one another, and the created world.\r\rThis app is not affiliated with the whole life movement.",
-"tags":["app", "name", "affiliations"]
+"tags":["app", "name", "affiliation"]
 }
 
 
