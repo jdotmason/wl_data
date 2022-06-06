@@ -313,9 +313,9 @@
 
 {
 "id": "topic22",
-"topicID" : "Coach Training",
-"name": "Coach Training",
-"available": false,
+"topicID" : "Coach Orientation",
+"name": "Coach Orientation",
+"available": true,
 "keywords": "spiritual mentoring, discipleship, or helping others grow spiritually",
 "subtitle": "Effective Mentoring Using This App",
 "summary": "Learn to facilitate Bible-based spiritual growth that is emotionally intelligent, spirit-led, and action-oriented.",
