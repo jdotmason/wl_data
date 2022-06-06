@@ -297,16 +297,16 @@
 },
 
 {
-"id": "topic21",
-"topicID" : "Other Topics",
-"name": "All-Purpose Convo",
-"available": false,
-"keywords": "",
-"subtitle": "Finding God in Your Life Circumstances",
-"summary": "Use this topic for a conversation about an issue going on in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
-"explores": [""],
-"photo": "grey",
-"tags": ["General"],
+"id":"topic21",
+"topicID":"Other Topics",
+"name":"All-Purpose Convo",
+"available":true,
+"keywords":"your situation or season",
+"subtitle":"Finding God in Your Life Circumstances",
+"summary":"Use this topic for a conversation about any situation in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
+"explores":["Where is God in my circumstances?", "What does it look like to follow Jesus in my situation?", "How is the Holy Spirit leading me in this season?"],
+"photo":"grey",
+"tags":["General"],
 "scrips":[]
 },
 
