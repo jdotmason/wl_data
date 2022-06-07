@@ -1,9 +1,13 @@
 [
 {
   "id":"coach orientation",
+  
   "name":"Coach Orientation",
+  
   "photo":"path",
+  
   "sections":[
+  
         {
         "id":"coach orientation welcome",
         "name":"Welcome",
@@ -14,26 +18,106 @@
         "links":[],
         "tags":["coach", "training"]
         },
+        
         {
-        "id":"coach orientation description",
-        "name":"Description",
+        "id":"what is a coach?",
+        "name":"What is a Coach?",
         "contents": [
-          "This is a description of what the deal is with the coach orientation. This should take hopefully less than one hour, but if everyone gets to participate then it won't.",
-          "This will be an interesting journey.",
-          "Take a look at the coach orientation site."
+            "For the purposes of this app, a coach is the person who organizes a pod, with one or more people, and takes first responsibility to care about the spiritual growth of others.",
+            "Coaches are not necessarily church leaders or pastors. This app is designed to help anyone who has been seriously following Jesus for years and has the availability and emotional maturity to walk with someone else and support their spiritual growth.",
+            "In this app, coaches are participant coaches. So you’re on the journey with those you’re coaching, and you’ll participate in all the same ways they do.",
+            "You’re not expected to have all the answers. This app expects you to respect God, the Father, Son, and Holy Spirit, respect the Bible as God’s Word, participate fully, and pray sincerely for those you coach.",
+            "As a coach, you can choose to meet with someone you consider a peer, or you may be a little further down the road than those you meet with. What’s important is that everyone is supported in the spiritual life, and as many people as possible are equipped to support others spiritual journey in a whole life, relational, and action-oriented way."
          ],
-        "links":[
-          {
-             "id":"Coach Tutorial",
-             "link":"https://www.spiritualgrowth.life/app-tutorial-overview-for-coaches",
-              "tags":["coach", "tutorial"]
-          }
-        ],
+        "links":[],
+        "tags":["coach", "training"]
+        },
+        
+        {
+        "id":"app overview tabs",
+        "name":"App Overview - Main Sections",
+        "contents": [
+            "At the bottom of the app, you’ll see icons for the main sections of the app.",  
+
+            "In the People section, you keep track of the people, pods, your profile, and prayer requests.",
+
+            "In the Convos section, you’ll keep track of what conversation guides you have done and will do.",
+
+            "In the Actions section, you’ll keep track of what action steps you plan to take as part of your own spiritual growth.",
+
+            "In the Photojournal section, you’ll build a spiritual photojournal, with entries from your spiritual history, your stories of God at work in your life, and the insights you capture along the way.",
+
+            "In the More section, you’ll find resources to help you get thos most out of the app.",
+            
+            "The best way to learn how to use the app is by doing it. So in this coach pod, we’re going to go through a simple journey to help you get familiar with the app.",
+            
+            "We’ll first get our pod ready. Then we’ll have a brief Starter Convo together, the same convo you start with any pod. Then we’ll walk through a sample Generic Convo together so you can get familiar with how this app does spiritual growth. Finally, we’ll take a brief look at the Celebration conversation that rounds out a pod spiritual journey."
+         ],
+        "links":[],
+        "tags":["coach", "training"]
+        },
+        
+        {
+        "id":"pod setup",
+        "name":"Pod Setup",
+        "contents": [
+"Go to the People tab.",
+
+"∙ Tap the Profile icon on the top right. This is your profile. Tap Edit to add your information.",
+
+"∙ Go back to the People tab, and tap the plus-square icon to add a new pod. Add the details. You should see yourself in the pod.",
+
+"∙ Go back to the People tab, and tap the plus-person icon to add a new person. Add the details for one of us.",
+
+"∙ Finally, tap on your pod to open it. Tap Edit, and next to Members tap Edit. Add the person to the Pod and tap Done.",
+
+"∙ You should now have a working Pod.",
+
+"Now go to the Convos Tab.",
+
+"∙ In the top right, tap the plus-talk-bubble icon to browse available convos.",
+
+"∙ Tap the Starter Convo to view its details. Tap Add To… in the rop right, and select your new pod.",
+
+"Do the same with the Celebration Convo.",
+
+"∙ In the Topics Browse page, you’ll see there are 20 topics that cover every major aspect of Christian life. Scroll to the bottom and you’ll find Any Situation, as well as Coach Pod topics. We're currently doing Coach Orientation, which has all the notes from today.",
+
+"The Any Situation generic convo has no specific topic, but is helpful for any situation, or in case something comes up that doesn’t fit in the other topics.  We'll use it today for practice.",
+
+"Add the Coach Orientation and Any Situation convo to your pod.",
+
+"Go Back to the Convos top page, and you can see all the upcoming convos for this pod."
+         ],
+        "links":[],
+        "tags":["coach", "training"]
+        },
+        
+        {
+        "id":"pod setup",
+        "name":"Pod Setup",
+        "contents": [
+"Go to the People tab.",
+
+"∙ Tap the Profile icon on the top right. This is your profile. Tap Edit to add your information.",
+
+"∙ Go back to the People tab, and tap the plus-square icon to add a new pod. Add the details. You should see yourself in the pod.",
+
+"∙ Go back to the People tab, and tap the plus-person icon to add a new person. Add the details for one of us.",
+
+"∙ Finally, tap on your pod to open it. Tap Edit, and next to Members tap Edit. Add the person to the Pod and tap Done.",
+
+"∙ You should now have a working Pod."
+         ],
+        "links":[],
         "tags":["coach", "training"]
         }
   ],
+  
   "links":[],
+  
   "tags": ["coach", "training"]
+  
 }
 
 ]
