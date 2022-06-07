@@ -212,7 +212,7 @@
 },
 
 {
-"id": "act02010",
+"id": "act0210",
 "name": "Compare rates of Jesus followers among people groups. ",
 "summary": "Use data on joshuaproject.net to compare the number of followers of Jesus among different peoples.", 
 "howTo":"Visit joshuaproject.net and choose a country, region, or people group. Notice how many followers of Jesus are there. Compare that with other regions or with your own home country or people group. \r\rPray for a nation and people you looked up, based on the prayer recommendations on the site.",
@@ -223,7 +223,7 @@
 },
 
 {
-"id": "act02011",
+"id": "act0211",
 "name": "Practice Jesus' habit of valuing people society looks down on",
 "summary": "Spend some time with a person or people who are looked down on by society and keep Jesus' perspective in mind.", 
 "howTo":"Jesus spent significant time among the poor and marginalized people of his day. He seemed to see their value where others were blind to it or ignored it. Jesus recognized that every person is made in the image of God and that life history or humble circumstances, like crumpling a $100 bill, cannot take away their inherent worth. He saw beyond what makes society look down on them, to the essence of who he created them to be in eternity. \r\rSpend time with people society or your community looks down on, and ask God to help you see them through Jesus' eyes. \r\rNotice their uniqueness, their aspirations, or aspects of their humanity that you identify with. \r\rShare with someone else about your day or your experience, and try describing the people you spent time with first by their unique qualities or aspirations, not at first by what makes them marginalized. For example, 'I met this guy today with this amazing sense of humor. He wants to find a peaceful home and this is the obstacle he's facing' rather than 'I met a homeless guy today'.",
@@ -234,7 +234,7 @@
 },
 
 {
-"id": "act02012",
+"id": "act0212",
 "name": "Pull away for prayer like Jesus",
 "summary": "Find a secluded spot outside to pray.", 
 "howTo":"After Jesus ministered to a lot of people, he often withdrew to secluded outdoors places to reconnect with God and be refreshed. \r\rFind a place outside not too far from you where you can go for between 30 minutes and three hours. \r\rBring a Bible and a journal if you use one. \r\rOpen your time by acknowledging the presence of God. If you're thoughts are elsewhere, reading a Psalm can help you focus your spirit on God's presence. \r\rShare with God anything that concerns you, what you're thankful for, or what you're learning. Leave lots of space and quiet to calm your heart and body and to listen for anything the Spirit may stir in your heart, either reasurances, wisdom, leading to what's next, or additional things that you and God need to deal with together. \r\rNotice any ways the natural setting opens you up to God in a special way. \r\rYou can also imagine some of what Jesus might have felt as he withdrew to be with God outdoors.",
@@ -245,11 +245,22 @@
 },
 
 {
-"id": "act02013",
+"id": "act0213",
 "name": "How would you explain the gospel?",
 "summary": "Write an explanation of the Gospel in your own words, and practice saying it.", 
 "howTo":"Describe the gospel in your own words.  \r\rMake sure to include the human predicament, the nature of God, what God did in Jesus, and what hope we now have. \r\rAfter you've written it down, read it as if you're saying it to someone. Adjust for anything that doesn't sound like how you talk. \r\rNow turn away from what you've written and just explain it out loud. \r\rFinally, prayerfully consider someone you might explain the Gospel to this week.\r\rThe purpose of this exercise is to help you think about how you might explain the gospel with others in conversation, not necessarily to develop a script. But writing it out first can help you organize your thoughts. \r\rIt's a little bit different from sharing your own testimony, because the Gospel is what God did for all of humanity.",
 "tips":"Sometimes it can help to picture a specific person you want to explain the gospel to. We may use slightly different words and frame it a little differently based on what we know of a specific person we care about. \r\rYou can include Scripture verses, but try to paraphrase in today's language, in words you would use.",
+"styles": ["writing", "speaking"],
+"topicIDs": ["Jesus & Gospel"],
+"isCustom": false
+},
+
+{
+"id": "act0301",
+"name": "Foster Bible appreciation with Psalm 119",
+"summary": "Start your Bible reading time by first reading a section of Psalm 119.", 
+"howTo":"Psalm 119 contains many section, one for each letter of the Hebrew alphabet, and each dedicated to appreciation for God's written Word. At the time, it would have referred to earlier parts the Hebrew Bible, the Old Testament. It's just as inspiring today for the entire Bible.\r\rIf you don't yet know the incredible gift the Bible is, or if the Bible has been feeling dry to you lately, the enthusiasm of Psalm 119 can be infectious. \r\rOver the coming days and weeks, each time you read the Bible, start first by reading one section of Psalm 119. Then continue to whatever passage you want to read. \r\rNotice if your attitude or perspective on the Bible shifts over that time.",
+"tips":"Though the psalmist mentions 'Your law,' 'Your decrees,' etc., think of it beyond just the 'do this, don't do that' parts. All of it gives glimpses into the awe-inspiring character of God. Let the psalmist's words prime You to notice God's character in whatever you read today.",
 "styles": ["writing", "speaking"],
 "topicIDs": ["Jesus & Gospel"],
 "isCustom": false
