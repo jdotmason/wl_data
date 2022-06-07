@@ -11,7 +11,7 @@
           "Thanks for using the Whole Life app!",
           "This will be an interesting journey."
         ],
-        "links":[""],
+        "links":[],
         "tags":["coach", "training"]
         },
         {
@@ -22,7 +22,13 @@
           "This will be an interesting journey.",
           "Take a look at the coach orientation site."
          ],
-        "links":["https://www.spiritualgrowth.life/app-tutorial-overview-for-coaches"],
+        "links":[
+          {
+             "id":"Coach Tutorial",
+             "link":"https://www.spiritualgrowth.life/app-tutorial-overview-for-coaches",
+              "tags":["coach", "tutorial"]
+          }
+        ],
         "tags":["coach", "training"]
         }
   ],
