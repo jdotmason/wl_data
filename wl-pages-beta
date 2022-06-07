@@ -206,6 +206,22 @@
         
         ],
         "tags":["coach", "training"]
+        },
+        
+        {
+        "id":"coach orientation conclusion",
+        "name":"In Conclusion",
+        "contents": [
+          "Questions?",
+
+          "In the More menu, there is a Frequently asked question section. What questions do you have at this point?",
+
+          "Prayer",
+
+          "How can we pray for you?"
+        ],
+        "links":[],
+        "tags":["coach", "training"]
         }
   ],
   
