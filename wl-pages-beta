@@ -94,20 +94,98 @@
         },
         
         {
-        "id":"pod setup",
-        "name":"Pod Setup",
+        "id":"convo journey",
+        "name":"The Basic Convo Journey",
         "contents": [
-"Go to the People tab.",
+"The Starter Convo",
 
-"∙ Tap the Profile icon on the top right. This is your profile. Tap Edit to add your information.",
+"Tap on the Starter Convo, and read through it together. This is how you will orient others to the app.",
 
-"∙ Go back to the People tab, and tap the plus-square icon to add a new pod. Add the details. You should see yourself in the pod.",
+"The Convo",
 
-"∙ Go back to the People tab, and tap the plus-person icon to add a new person. Add the details for one of us.",
+"Tap on the Any Situation convo. You should see a cross of empty tiles (or a list of sections with tiles). This is the basic order of every convo. As you do each section, the tiles will fill in with images.",
 
-"∙ Finally, tap on your pod to open it. Tap Edit, and next to Members tap Edit. Add the person to the Pod and tap Done.",
+"Tap on the green question mark in the top right. These icons show information and tips to guide you through the convo.",
 
-"∙ You should now have a working Pod."
+"Let’s walk through a basic convo!",
+
+"My Story",
+
+"Tap on My Story. Here you can add snapshots (metaphorically and literally!) of your spiritual history. For now, add a quick note and a photo from your phone. Then tap on it to select it for this convo. It has a yellow outline when it’s selected. This will be the piece of your backstory that you will share with the pod. Ideally you can add backstory entries before you meet.",
+
+"Tap Done to go back to the convo main view.",
+
+"Pod Connect",
+
+"Tap on Pod Connect. Here is where you’ll start your pod meeting. Greet each other, catch up, and then start sharies your backstories. You don’t need to share your entire history on the topic when you share. Just give us one glimpse of your history. You’ll get to know each other over time, and each part of Your story is valuable.",
+
+"Someone share their backstory now.",
+
+"Sharing from our backstories is a time for learning about where each other is coming from, without judgment. We’re all growing from where we’ve been.",
+
+"In a real convo, everyone would share a piece of their history with that topic. Since this is a generic topic, the backstory can be pretty broad. If you’re using this topic to go into a specific issue not listed, you can ask the group to share a little of their history with the issue you’re going to discuss.",
+
+"God Connect",
+
+"Tap on God Connect. In this section, we’ll turn our focus on the presence of God. You’ll see the title of a suggested meditation. Tap on it to see the details. As the coach, you can slowly read aloud the meditation, pausing for about 10 seconds after every paragraph.  Others can close their eyes or look at the candle.",
+
+"When you’re done, you can ask if anyone wants share what happened for them during the meditation. The last question in the meditation is a good prompt, but you can share whatever you want, or not share anything if you prefer.",
+
+"The God Connect meditation helps us practice noticing God’s presence and movement within us.", 
+
+"Tap Done.",
+
+"Word Connect",
+
+"Tap on Word Connect. In this section, you’ll do a relational Bible reading. The first questions focus on our relationships with God and one another, and our life situation. The questions are the same for every convo, and they’re useful any time you’re looking at the Bible.",
+
+"Let someone select a passage. It’s important as a coach to let others do as much choosing as possible, through this app, so that it’s a more active experience.",
+
+"Everyone tap on the passage. Tap it again to open it in YouVersion Holy Bible app. It will open to whatever version you have on the app. Someone read the passage.",
+
+"Now let people choose one question from each rectangle. Everyone doesn’t have to answer the same question.",
+
+"If there’s time, let each person choose a conversation starter, and everyone else can respond to the question they chose.",
+
+"Tap Done.",
+
+"Action Prayer",
+
+"Tap on Action Prayer. Here you’ll prayerfully consider an action step you can do before the next time you meet that can help you grow in this topic area.", 
+
+"Tap on the Listen meditation. Again, let everyone close their eyes or look at the candle. Slowly read the meditation, leaving 10 seconds between paragraphs.",
+
+"Now return to the Action Prayer Page. Did anything come to mind you feel prompted to do? If so, type it in the My Action box and tap save.",
+
+"If not, tap Browse ideas. Notice if any action stands out to you. Tap on it to see its details. Tap Add to My Actions to select it.",
+
+"Now close the group in prayer, and decide when you’ll meet next.",
+
+"Do & See",
+
+"Imagine now you’re back in your life and you’re going to try your action step. Tap Do & See. To see instructions, tap Instructions.",
+
+"Once you’ve tried it, tap Tried Action. Now it’s time to add a God Story. What did God do when you tried your action step? Tap Add God Story, and write notes. Add a photo if possible. Tap Done.",
+
+"Followup",
+
+"Now imagine you’re back together for your next Pod meeting. Tap Followup. Here’s you’ll see guidance through a convo to explore and share what happened when you each did your own action steps.",
+
+"Start by sharing God stories.",
+
+"Then have a God moment, noticing God’s presence.", 
+
+"Then have discussion as time permits. Leave significnt time to pray for one another.",
+
+"And that’s a basic convo! As a pod, you can decide on your topics together. You can stay on one topic for a while, or move around. Each time you repeat a topic, add the topic to your pod again from Browse, because each time will have different backstories, Bible readings, God connect meditations, and action steps, so it’s like a whole new convo experience.",
+
+"Celebration Convo",
+
+"After a journey (after a few convo cycles or maybe a 12 week season), you’ll do a Celebration Convo.",
+
+"Tap on the Celebration Convo. Here you’ll see lots of options for reviewing your journey together, sharing what God is doing in your life, and considering next steps.",
+
+"And that rounds out the journey with the Whole Life App!"
          ],
         "links":[],
         "tags":["coach", "training"]
