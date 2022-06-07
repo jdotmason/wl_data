@@ -1,0 +1,16 @@
+[
+{
+  "id":"coach orientation welcome",
+  "name":"Welcome",
+  "photo":"path",
+  "contents":[
+    "Thanks for using the Whole Life app!",
+    "This will be an interesting journey."
+    ],
+    "links":[""],
+    "tags": ["coach", "training"]
+}
+
+
+]
+
