@@ -1,16 +1,34 @@
 [
 {
-  "id":"coach orientation welcome",
-  "name":"Welcome",
+  "id":"coach orientation",
+  "name":"Coach Orientation",
   "photo":"path",
-  "contents":[
-    "Thanks for using the Whole Life app!",
-    "This will be an interesting journey."
-    ],
-    "links":[""],
-    "tags": ["coach", "training"]
+  "sections":[
+        {
+        "id":"coach orientation welcome",
+        "name":"Welcome",
+        "contents": [
+          "Thanks for using the Whole Life app!",
+          "This will be an interesting journey."
+        ],
+        "links":[""],
+        "tags":["coach", "training"]
+        },
+        {
+        "id":"coach orientation description",
+        "name":"Description",
+        "contents": [
+          "This is a description of what the deal is with the coach orientation. This should take hopefully less than one hour, but if everyone gets to participate then it won't.",
+          "This will be an interesting journey.",
+          "Take a look at the coach orientation site."
+         ],
+        "links":["https://www.spiritualgrowth.life/app-tutorial-overview-for-coaches"],
+        "tags":["coach", "training"]
+        }
+  ],
+  "links":[""],
+  "tags": ["coach", "training"]
 }
-
 
 ]
 
