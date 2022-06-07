@@ -189,6 +189,23 @@
          ],
         "links":[],
         "tags":["coach", "training"]
+        },
+        
+        {
+        "id":"what makes a good coach",
+        "name":"What Makes a Good Coach?",
+        "contents": [
+          "Being a good coach goes beyond walking through the app. It’s also about setting a tone, creating a space where people can grow spiritually. To go deeper into that, take a look that the link to Setting the Tone for Spiritual Growth."
+        ],
+        "links":[
+        {
+         "id":"Setting the Tone for Spiritual Growth",
+         "link":"https://www.spiritualgrowth.life/whole-life-blog/setting-the-tone-for-spiritual-growth",
+         "tags":["coach", "training"]
+        }
+        
+        ],
+        "tags":["coach", "training"]
         }
   ],
   
