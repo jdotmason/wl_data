@@ -25,6 +25,12 @@
 },
 
 {
+  "id":"Coach Orientation",
+  "link":"https://www.spiritualgrowth.life/coach-tutorial",
+  "tags":["coach", "tutorial"]
+},
+
+{
   "id":"Whole Life Blog",
   "link":"https://www.spiritualgrowth.life/whole-life-blog/",
   "tags":["blog"]
