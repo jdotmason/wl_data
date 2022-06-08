@@ -19,16 +19,18 @@
 },
 
 {
+  "id":"Coach Orientation",
+  "link":"https://www.spiritualgrowth.life/coach-tutorial",
+  "tags":["coach", "tutorial"]
+},
+
+{
   "id":"Setting the Tone for Spiritual Growth",
   "link":"https://www.spiritualgrowth.life/whole-life-blog/setting-the-tone-for-spiritual-growth",
   "tags":["coach"]
 },
 
-{
-  "id":"Coach Orientation",
-  "link":"https://www.spiritualgrowth.life/coach-tutorial",
-  "tags":["coach", "tutorial"]
-},
+
 
 {
   "id":"Whole Life Blog",
