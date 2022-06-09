@@ -350,6 +350,61 @@
 "start":"19",
 "end":"25",
 "topicID":"General"
+},
+
+{
+"id":"s2102",
+"phrase":"Help me, God",
+"version":"",
+"book":"Psalm",
+"chapter":"86",
+"start":"1",
+"end":"17",
+"topicID":"General"
+},
+
+{
+"id":"s2103",
+"phrase":"Live by the Spirit",
+"version":"",
+"book":"Romans",
+"chapter":"8",
+"start":"5",
+"end":"17",
+"topicID":"General"
+},
+
+{
+"id":"s2104",
+"phrase":"Living according to God's word",
+"version":"",
+"book":"Psalm",
+"chapter":"119",
+"start":"9",
+"end":"16",
+"topicID":"General"
+},
+
+{
+"id":"s2105",
+"phrase":"Wisdom comes from the Holy Spirit",
+"version":"",
+"book":"1 Corinthians",
+"chapter":"2",
+"start":"6",
+"end":"16",
+"topicID":"General"
+},
+
+{
+"id":"s2106",
+"phrase":"Lead me in the way everlasting",
+"version":"",
+"book":"Psalm",
+"chapter":"139",
+"start":"1",
+"end":"12",
+"topicID":"General"
 }
 
 
