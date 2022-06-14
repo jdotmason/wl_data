@@ -54,6 +54,13 @@
 "question":"Why is the app called Whole Life?",
 "answer":"First, I wanted to create an app that allowed for spiritual growth conversation about every aspect of life. The twenty topics are intended to cover our whole lives so that there's no aspect of living as a follower of Jesus that users don't have a place to talk about. \r\rSecond, I believe that we find whole life, or fullness of life, as we grow in relationship with God, one another, and the created world.\r\rThis app is not affiliated with the whole life movement.",
 "tags":["app", "name", "affiliation"]
+},
+
+{
+"id":"faq009",
+"question":"What's the difference between archive and delete?",
+"answer":"Archive is storing something out of view. All the info is still there, it's just stored in the Convo Archive, Inactive Persons Archive, Inactive Pods Archive, etc. There is no archive for Entries. You can always Unarchive an item. \r\rDelete, on the other hand, erases the item from the app, never to return. There is no Undelete.",
+"tags":["app", "name", "affiliation"]
 }
 
 
