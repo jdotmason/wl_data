@@ -307,7 +307,11 @@
 "   so that you may overflow with hope ",
 "   by the power of the Holy Spirit.'",
 
-"Finish the group by deciding when you'll meet next."
+"Close",
+
+"∙ Confirm what topic you'll do next.",
+
+"∙ Decide when you'll meet next."
 ],
 "tags":["starter"]
 },
@@ -450,7 +454,8 @@
 "",
 
 "👉 Get Info.",
-"Make sure you've decided on how and when you'll reconnect."
+"∙ Confirm how and when you'll reconnect.",
+"∙ To start a new journey, add at least a new Starter Convo."
 ],
 "tags":["celebration"]
 },
