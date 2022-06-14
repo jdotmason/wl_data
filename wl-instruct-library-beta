@@ -317,9 +317,11 @@
 
 "Close",
 
-"∙ Confirm what topic you'll do next.",
+"∙ Confirm what topic you'll do next and what kind of action the group will do in the meantime (add a backstory entry? do an action step?).",
 
-"∙ Decide when you'll meet next."
+"∙ Decide when you'll meet next.",
+
+"∙ Tap Done at the top right to mark this convo done."
 ],
 "tags":["starter"]
 },
