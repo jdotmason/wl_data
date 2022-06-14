@@ -499,7 +499,7 @@
 
 "Now tap on your new pod to open it, tap edit, find Members, and tap Edit. Checkmark each other and tap Done to add everyone to the pod. You won't need to add yourself--you are automatically in every pod on your own phone.",
 
-"If there's time, take or send photos of each other. Tap on each person, tap Edit, and tap Photo Library or Camera to add a photo for the person."
+"If there's time, take or send photos of each other (not within the app, just text photos to each other). In the app, tap on each person, tap Edit, and tap Photo Library or Camera to add a photo for the person."
 ],
 "tags":["starter"]
 },
@@ -507,9 +507,11 @@
 {
 "id":"usingTheAppConvos",
 "contents":[
-"Go to the Convo Guides tab and show them they're currently in a Starter Convo.",
+"Go to the Convo Guides tab notice the Starter Convo. This is what you're doing now.",
 
-"Browse the available topics and agree on what topic you want to do next."
+"Tap the green plus-talk-bubble in the top right to browse all the available and upcoming topics. Agree on what topic you want to do next.",
+
+"Tap on the topic you will do, and tap the green Add To... in the top right. Tap the button to confirm you want to add it to your pod."
 ],
 "tags":["starter"]
 },
@@ -517,11 +519,11 @@
 {
 "id":"usingTheAppBackstory",
 "contents":[
-"Tap on a convo thumbnail (or list item if you're in the list view).",
+"Go to the Convo tab top level view. Tap on the convo you added.",
 
 "Open the About section and read it together.",
 
-"Open the Share Backstories section and notice that you can upload a backstory journal entry before the next meeting so you have a photo to show. Ask if anyone has questions about that."
+"Open the Share Backstories section and notice that you can Add as many backstory journal entries for this topic as you want. Before the next meeting, you'll select one by tapping on it so it highlights yellow. This will be the story you share when you meet next. See if anyone has questions about that."
 ],
 "tags":["starter"]
 }
