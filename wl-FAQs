@@ -61,6 +61,13 @@
 "question":"What's the difference between archive and delete?",
 "answer":"Archive is storing something out of view. All the info is still there, it's just stored in the Convo Archive, Inactive Persons Archive, Inactive Pods Archive, etc. There is no archive for Entries. You can always Unarchive an item. \r\rDelete, on the other hand, erases the item from the app, never to return. There is no Undelete.",
 "tags":["app", "name", "affiliation"]
+},
+
+{
+"id":"faq010",
+"question":"How can I zoom, move, and crop photos of my pod members so it just shows their face?",
+"answer":"In the beta version, the easiest way to get the part of the photo you want is to open the photo in your Photos, take a screenshot of it (push the volume up button and the on button simultaneously), and crop it there. Save the version of the photo you want as the screenshot into your photos. Then back in the Whole Life app, select that screenshot for your member image.",
+"tags":["photo", "image"]
 }
 
 
