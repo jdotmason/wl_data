@@ -36,7 +36,14 @@
   "id":"Whole Life Blog",
   "link":"https://www.spiritualgrowth.life/whole-life-blog/",
   "tags":["blog"]
+},
+
+{
+  "id":"Known Bugs",
+  "link":"https://midnight-condition-b86.notion.site/While-Life-Bugs-Roadmap-e1e82f5074fa45bd8f376206442aabe7",
+  "tags":["bug", "app"]
 }
+
 
 ]
 
