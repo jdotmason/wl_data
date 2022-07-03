@@ -567,8 +567,8 @@
 {
 "id":"beforeMainSteps",
 "contents":[
-"In the My Story section of the convo, add one or more backstory entries for the this topic",
-"Tap one of your backstory entries to select it for sharing with the pod."
+"Add one or more backstory entries to the My Story section",
+"Tap a backstory to select it, and tap Done."
 ],
 "tags":[""]
 },
