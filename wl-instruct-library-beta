@@ -542,6 +542,45 @@
 "Add a God story entry about what happened when you tried your action."
 ],
 "tags":[""]
+},
+
+{
+"id":"beforeFollowupSteps",
+"contents":[
+"Confirm together when and how you'll meet next.",
+"Try your action step (or another one if you feel prompted to change).",
+"Add a God story entry about what happened when you tried your action."
+],
+"tags":[""]
+},
+
+{
+"id":"beforeStarterSteps",
+"contents":[
+"Set up or edit your profile",
+"Set up or edit your pod",
+"Set up or edit your pod members"
+],
+"tags":[""]
+},
+
+{
+"id":"beforeMainSteps",
+"contents":[
+"In the My Story section of the convo, add one or more backstory entries for the this topic",
+"Tap one of your backstory entries to select it for sharing with the pod."
+],
+"tags":[""]
+},
+
+{
+"id":"beforeCelebrationSteps",
+"contents":[
+"Look over your Photo Journal.",
+"Notice anything that stands out to you about your relationship with God as you've journeyed with this pod."
+],
+"tags":[""]
 }
+
 
 ]
