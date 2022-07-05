@@ -567,7 +567,8 @@
 {
 "id":"beforeMainSteps",
 "contents":[
-"Add a backstory entry in My Story.",
+"Confirm what topic you'll do next.",
+"In your next convo, add a backstory entry in My Story.",
 "Tap a backstory to select it, and tap Done."
 ],
 "tags":[""]
