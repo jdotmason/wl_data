@@ -602,6 +602,15 @@
 "When that person is done, repeat with each person in the pod."
 ],
 "tags":["Followup"]
+},
+
+{
+"id":"followupAddInsightsInfo",
+"contents":[
+"An Insight is a text-only Photo Journal entry.",
+"After this convo, action, and followup, is there an insight you want to remember? Add it here." 
+],
+"tags":["Followup"]
 }
 
 
