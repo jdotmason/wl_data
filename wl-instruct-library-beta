@@ -590,6 +590,16 @@
 "Update your prayer requests (tap the pencil icon) or add answers to your Photo Journal (tap Answer)."
 ],
 "tags":["Followup"]
+},
+
+{
+"id":"followupShareGodStoriesInfo",
+"contents":[
+"Let each person share their action step and God story",
+"Then with that same person, choose Troubleshoot or Go Deeper Questions.",
+"When that person is done, repeat with each person in the pod."
+],
+"tags":["Followup"]
 }
 
 
