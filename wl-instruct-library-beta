@@ -567,8 +567,7 @@
 {
 "id":"beforeMainSteps",
 "contents":[
-"Add a backstory entry in My Story.",
-"Tap a backstory to select it, and tap Done."
+"Choose a backstory entry in My Story.",
 ],
 "tags":[""]
 },
