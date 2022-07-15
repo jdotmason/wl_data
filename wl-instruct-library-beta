@@ -538,8 +538,8 @@
 "id":"beforeFollowupInstructions",
 "contents":[
 "Confirm your next meetup.",
-"Try your action step (or another one if you feel prompted to change).",
-"Add a God story entry about what happened when you tried your action."
+"Do an action.",
+"Add a God story entry about your action."
 ],
 "tags":[""]
 },
@@ -567,8 +567,7 @@
 {
 "id":"beforeMainSteps",
 "contents":[
-"Confirm what topic you'll do next.",
-"In your next convo, add a backstory entry in My Story.",
+"Add a backstory entry in My Story.",
 "Tap a backstory to select it, and tap Done."
 ],
 "tags":[""]
@@ -577,8 +576,7 @@
 {
 "id":"beforeCelebrationSteps",
 "contents":[
-"Look over your Photo Journal.",
-"Notice anything that stands out to you about your relationship with God as you've journeyed with this pod."
+"Look over your Photo Journal. Notice anything that stands out to you about your relationship with God as you've journeyed with this pod."
 ],
 "tags":[""]
 },
