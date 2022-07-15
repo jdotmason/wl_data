@@ -481,6 +481,17 @@
 },
 
 {
+"id":"celebrationPodConnectInfo",
+"contents":[
+"Start your convo by sharing highs and lows from the week, and any answered prayer from last time."
+
+],
+"tags":["celebration", "pod"]
+},
+
+
+
+{
 "id":"endConvoStartersInfo",
 "contents":[
 "1. Each person pick a question to discuss from The App Experience section.",
