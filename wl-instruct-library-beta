@@ -333,13 +333,13 @@
 {
 "id":"starterPrayAndClose",
 "contents":[
-"Ask if anyone has prayer requests for the upcoming week, and take notes in the Prayer Requests section at the bottom. Each person in your pod should be listed below. To add requests for a person, tap the pencil, then tap the green add button to add a request, and tap Done to save.",
+"Ask if anyone has prayer requests for the upcoming week, and take notes in the Prayer Requests section at the bottom. Each person in your pod should be listed below. Tap +Add to add a request. To edit a request tap the pencil, then tap on the request. To delete a request, tap the pencil and swipe left on the request you want to delete.",
 
 "Tap Answer to record an answered prayer. It will make an Answered Prayer entry in your PhotoJournal.",
 
 "Later, you can see the relevant prayer requests at the bottom of each convo, within each pod, or by tapping the praying hands at the top of the People tab.",
 
-"Take a moment now to praye for each other. Ask if someone would like to open the group with prayer, and offer to close. If no one volunteers, pray for each person in the group.",
+"Take a moment now to pray for each other. Ask if someone would like to open the group with prayer, and offer to close. If no one volunteers, pray for each person in the group.",
 
 "If you're pressed for time, you can close with a brief blessing, such as:",
 
@@ -348,17 +348,9 @@
 "   so that you may overflow with hope ",
 "   by the power of the Holy Spirit.'",
 
-"  ",
-
-"Close",
-
-"∙ Confirm what topic you'll do next and what kind of action the group will do in the meantime (add a backstory entry? do an action step?).",
-
-"∙ Decide when you'll meet next.",
-
-"∙ Tap Done at the top right to mark this convo done."
+"  "
 ],
-"tags":["starter"]
+"tags":["starter", "prayer", "answer"]
 },
 
 {
