@@ -9,6 +9,23 @@
 
 
 {
+"id":"starterNextOurPod",
+"contents":[
+"Decide together what your upcoming journey (series of convo topics) will be.",
+
+"Beta tester pods automatically have a journey of convos added to their beta pod. But feel free to add to or change them.",
+
+"To set up a custom journey, go to the Convos Tab and tap the plus-talk-bubble icon in the top right to browse topics.",
+
+"Tap on a topic to see it's summary. Tap Add To... in the top right to choose your pod. Then tap the green button to add the topic to your pod.",
+
+"Your pod can do the same topic many times because each time through is a unique backstory, meditation, Scripture, action, and God story. If you want to do a deep dive of one topic, add the same topic multiple times to your pod for a series of convo meetups on the same topic."
+
+],
+"tags":["journey", "convo", "pod"]
+},
+
+{
 "id":"shareBackstoryInfo",
 "contents":[
 "Start you convo by sharing highs and lows from the week and any answered prayer from last time.",
