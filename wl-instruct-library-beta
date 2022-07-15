@@ -157,6 +157,22 @@
 },
 
 {
+"id":"listenForMeInfo",
+"contents":[
+"In this meditation, you're going to listen for anything the Holy Spirit may want to bring to mind about another person's spiritual journey.",
+"Take a deep breath and remember that God is present with you.",
+"Think about how God has known the person since before they were born.",
+"Think back over the time you've spent together in this pod.",
+"Set the minute timer and listen in the quiet for what is stirring in your mind, heart, or spirit about their spiritual experience or what God may be doing in their life. You may even have a vision for what God is helping them to become.",
+
+"---",
+
+"Is there an encouragement, affirmation, or observation you feel prompted to share? If it's coming from God, it will be filled with hope, not condemnation."
+],
+"tags":["action"]
+},
+
+{
 "id":"actionQ",
 "contents":[
 "After today's convo, is there something you feel prompted to do?",
@@ -569,7 +585,7 @@
 {
 "id":"beforeMainSteps",
 "contents":[
-"Choose a backstory entry in My Story.",
+"Choose a backstory entry in My Story."
 ],
 "tags":[""]
 },
