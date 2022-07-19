@@ -9,11 +9,11 @@
     {
     "id":"youTubeBetsyShort",
     "link":"https://youtu.be/XdMEl7MNX5Y",
-    "tags":[]
+    "tags":["tutorial"]
     }
     
     ],
-    "tags":[],
+    "tags":["tutorial"],
     "screenshot":"first-tutorial-video"
 
 }
@@ -30,13 +30,13 @@
 {
 "id":"youTubeBetsyShort",
     "link":"https://youtu.be/XdMEl7MNX5Y",
-    "tags":[]
+    "tags":["tutorial"]
 }
 ]
 }
 ],
 "links": [],
-"tags": []
+    "tags":["tutorial"]
 
 }
 ]
