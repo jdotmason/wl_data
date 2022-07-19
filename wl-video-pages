@@ -5,19 +5,9 @@
 "name":"First Tutorial Video",
 "videoThumbnail":"first-tutorial-video",
 "photoLink":"",
-"sections":[
-    {
-      "id":"section1",
-      "name":"Section 1",
-      "contents": [
-        "This is my first video,",
-        "I hope it looks good. I'm working really hard on it to make sure it will look nice."
-        ]
-    }
-  ],
+"sections":[],
 "otherLinks": [],
 "tags": ["tutorial"]
-
 }
 
 ]
