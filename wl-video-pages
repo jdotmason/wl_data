@@ -3,7 +3,7 @@
 {
 "id":"firstTutorial",
 "name":"First Tutorial Video",
-"sumary":"This is the first video tutorial with Betsy.",
+"summary":"This is the first video tutorial with Betsy.",
 "videoThumbnail":"first-tutorial-video",
 "photoLink":"https://youtu.be/XdMEl7MNX5Y",
 "sections":[],
