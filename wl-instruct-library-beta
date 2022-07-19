@@ -616,6 +616,23 @@
 },
 
 {
+"id":"beforeDoAndSeeSteps",
+"contents":[
+"Try an Action.",
+"Add a God Story."
+],
+"tags":[""]
+},
+
+{
+"id":"beforeAddGodStorySteps",
+"contents":[
+"Add a God Story."
+],
+"tags":[""]
+},
+
+{
 "id":"beforeCelebrationSteps",
 "contents":[
 "Look over your Photo Journal. Notice anything that stands out to you about your relationship with God as you've journeyed with this pod."
