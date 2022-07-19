@@ -6,7 +6,18 @@
 "summary":"This is the first video tutorial with Betsy.",
 "videoThumbnail":"first-tutorial-video",
 "photoLink":"https://youtu.be/XdMEl7MNX5Y",
-"sections":[],
+"sections":[
+  {
+  "id":"tutorialsection1",
+  "name":"Section 1",
+  "contents":[
+  "This is the first sentence in the first section.",
+  "Then this is the second paragraph. I hope they look okay together."
+  ], 
+  "links":[],
+  "tags":[]
+  }
+],
 "otherLinks": [],
 "duration":"10 min",
 "tags": ["tutorial"]
