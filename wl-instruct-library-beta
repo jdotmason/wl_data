@@ -600,9 +600,17 @@
 },
 
 {
-"id":"beforeMainSteps",
+"id":"beforeBackstorySteps",
 "contents":[
 "Choose a backstory entry in My Story."
+],
+"tags":[""]
+},
+
+{
+"id":"beforeMainSteps",
+"contents":[
+"None"
 ],
 "tags":[""]
 },
