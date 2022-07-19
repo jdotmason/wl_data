@@ -1,44 +1,41 @@
 [
-{
-"id":"firstTutorialVideo",
-"name":"First Tutorial Video",
-"photoLink": [
-{
-    "id":"BetsyShort",
-    "link": [
     {
-    "id":"youTubeBetsyShort",
-    "link":"https://youtu.be/XdMEl7MNX5Y",
-    "tags":["tutorial"]
-    }
-    
+    "id":"firstTutorialVideo",
+    "name":"First Tutorial Video",
+    "photoLink": [
+        {
+            "id":"BetsyShort",
+            "link": 
+            {
+            "id":"youTubeBetsyShort",
+            "link":"https://youtu.be/XdMEl7MNX5Y",
+            "tags":["tutorial"]
+            },
+            "tags":["tutorial"],
+            "screenshot":"first-tutorial-video"
+        }
     ],
-    "tags":["tutorial"],
-    "screenshot":"first-tutorial-video"
+    "sections": [
+        {
+        "id":"BetsyShortWelcome",
+        "name":"Welcome",
+        "contents":[
+            "Welcome to me first video.",
+            "I hope this looks nice."
+        ],
+        "links":[
+                {
+                "id": "youTubeBetsyShort",
+                "link": "https://youtu.be/XdMEl7MNX5Y",
+                "tags": ["tutorial"]
+                }
+            ]
+        }
+    ],
+    "links": [],
+        "tags":["tutorial"]
 
-}
-],
-"sections": [
-{
-"id":"BetsyShortWelcome",
-"name":"Welcome",
-"contents":[
-"Welcome to me first video.",
-"I hope this looks nice."
-],
-"links":[
-{
-"id":"youTubeBetsyShort",
-    "link":"https://youtu.be/XdMEl7MNX5Y",
-    "tags":["tutorial"]
-}
-]
-}
-],
-"links": [],
-    "tags":["tutorial"]
-
-}
+    }
 ]
 
 
