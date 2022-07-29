@@ -48,7 +48,7 @@
 "id": "topic03",
 "topicID" : "Bible",
 "name": "The Bible" ,
-"available": false,
+"available": true,
 "keywords": "the Bible",
 "subtitle": "God's Word to Humanity",
 "summary": "The Bible is God communicating to and through his people over many centuries. The Bible is a library of works, including poetry, history, letters, and other types of writing.",
