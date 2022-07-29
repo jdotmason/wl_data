@@ -409,89 +409,89 @@
 
 {
 "id":"s0307",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"Scripture comes from God",
 "version":"",
-"book":"2 Timothy",
-"chapter":"3",
-"start":"14",
-"end":"17",
+"book":"2 Peter",
+"chapter":"1",
+"start":"12",
+"end":"21",
 "topicID":"Bible"
 },
 
 {
 "id":"s0308",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"The Bible gives us hope",
 "version":"",
-"book":"2 Timothy",
-"chapter":"3",
-"start":"14",
-"end":"17",
+"book":"Romans",
+"chapter":"15",
+"start":"4",
+"end":"6",
 "topicID":"Bible"
 },
 
 {
 "id":"s0309",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"The Bible is living and active",
 "version":"",
-"book":"2 Timothy",
-"chapter":"3",
-"start":"14",
-"end":"17",
+"book":"Hebrews",
+"chapter":"4",
+"start":"12",
+"end":"13",
 "topicID":"Bible"
 },
 
 {
 "id":"s0310",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"Milk and solid food",
 "version":"",
-"book":"2 Timothy",
-"chapter":"3",
-"start":"14",
-"end":"17",
+"book":"Hebrews",
+"chapter":"5",
+"start":"11",
+"end":"14",
 "topicID":"Bible"
 },
 
 {
 "id":"s0311",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"Appropriately handle the Word",
 "version":"",
 "book":"2 Timothy",
-"chapter":"3",
+"chapter":"2",
 "start":"14",
-"end":"17",
+"end":"15",
 "topicID":"Bible"
 },
 
 {
 "id":"s0312",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"God’s word accomplishes God’s purpose",
 "version":"",
-"book":"2 Timothy",
-"chapter":"3",
-"start":"14",
-"end":"17",
+"book":"Isaiah 55:10",
+"chapter":"55",
+"start":"10",
+"end":"10",
 "topicID":"Bible"
 },
 
 {
 "id":"s0313",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"Jesus’ words are a solid foundation",
 "version":"",
-"book":"2 Timothy",
-"chapter":"3",
-"start":"14",
-"end":"17",
+"book":"Matthew",
+"chapter":"7",
+"start":"24",
+"end":"29",
 "topicID":"Bible"
 },
 
 {
 "id":"s0314",
-"phrase":"Scripture is God-breathed and useful",
+"phrase":"Scripture is understood spiritually",
 "version":"",
-"book":"2 Timothy",
-"chapter":"3",
-"start":"14",
-"end":"17",
+"book":"2 Corinthians",
+"chapter":"2",
+"start":"12",
+"end":"16",
 "topicID":"Bible"
 },
 
