@@ -277,7 +277,16 @@
 "isCustom": false
 },
 
-
+{
+"id": "act0302",
+"name": "Compare Bible versions or languages.",
+"summary": "Pick a short passage and read the same passage in multiple versions (or multiple languages if you know more than one).", 
+"howTo":"The Bible was originall written in Hebrew, Aramaic, and Greek, and it has been translated into over 1500 of today's languages. Many languages have multiple translations. \r\rGo to the YouVersion Holy Bible App and choose a passage to read.\r\rNow change the translation (and language if you wish). \r\rNotice where they both are saying the same thing. What does this tell you about the essence of the passage? \r\rNow notice the differences. What do these nuances tell you about that part of the reading? \r\rWhat does the existence of the Bible in so many languages reveal to you about God?",
+"tips":"Reading in multiple languages or translations is an exercise in humility. We remember that the Scripture sometimes transcends the culture we're used to. \r\r Stay open to being surprised. Let this exercise challenge your preconceived notions of what the Scripture is actually saying.",
+"styles": ["analytical", "research", "reflective"],
+"topicIDs": ["Bible"],
+"isCustom": false
+}, 
 
 
 {
