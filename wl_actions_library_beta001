@@ -288,16 +288,7 @@
 "isCustom": false
 }, 
 
-{
-"id": "act0303",
-"name": "Watch the Bible as a movie with a friend.",
-"summary": "Watch the entire LUMO Production of The Gospel of Mark.", 
-"howTo":"These videos have English voiceover of the entire gospel, with actors speaking Aramaic (the language Jesus spoke) in the background.\r\r Think about what parts of the movie stood out to you. \r\rChat with your friend about how Jesus’ life, death, or resurrection spoke to you today.",
-"tips":"You can also find LUMO The Gospel of Matthew, The Gospel of Luke, and The Gospel of John. \r\rThe Gospel of Mark is the shortest one.",
-"styles": ["social", "sensory", "speaking"],
-"topicIDs": ["Bible"],
-"isCustom": false
-}, 
+
 
 {
 "id": "act1201",
