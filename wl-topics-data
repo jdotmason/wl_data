@@ -1,19 +1,75 @@
 [
 
 {
-"id":"starter",
-"topicID":"Starter",
-"name":"Starter Convo",
+"id":"podStarter",
+"topicID":"Pod Starter",
+"name":"Pod Starter",
 "available":true,
 "keywords":"",
-"subtitle":"Get Ready for a New Journey",
-"summary":"In this first meeting, connect with your group and decide on your journey together.",
+"subtitle":"Get to know each other and the app",
+"summary":"In this first meeting, connect with your group and learn how the app can help you support your spiritual journeys together.",
 "explores":["What's new in our lives?", "What do we want to focus on?"],
 "photo":"open",
-"tags":["Start"],
+"tags":["New Pod"],
 "scrips":[]
 },
 
+{
+"id":"journey starter",
+"topicID":"Journey Starter",
+"name":"Journey Starter",
+"available":true,
+"keywords":"",
+"subtitle":"Get Ready for a New Journey",
+"summary":"Reconnect with your group and decide on your journey together.",
+"explores":["What's new in our lives?", "What do we want to focus on?"],
+"photo":"open",
+"tags":["Start", "Pod Journey"],
+"scrips":[]
+},
+
+{
+"id":"storyActionLifeTopics",
+"topicID":"Life Topics",
+"name":"Life Topics",
+"available":true,
+"keywords":"",
+"subtitle":"Story & Action Convos",
+"summary":"These convo guides lead you through an experience of sharing your backstories, meditation, relational Bible reading, action, prayer, and followup conversations.",
+"explores":[""],
+"photo":"open",
+"tags":["Start", "Pod Journey"],
+"scrips":[]
+},
+
+{
+"id":"soulcare",
+"topicID":"Soul Care",
+"name":"Soul Care",
+"available":true,
+"keywords":"finding God in your life circumstances",
+"subtitle":"Finding God in Your Life Circumstances",
+"summary":"Use this topic for a conversation starting from the life situations of your group members, rather than a life topic. This convo leads you through a time of meditation listening to someone share their situation, options for soul care, invitations to action, and prayer. The included Scripture options help you focus on God, no matter what circumstance you discuss.",
+"explores":["Where is God in my circumstances?", "What does it look like to follow Jesus in my situation?", "How is the Holy Spirit leading me in this season?"],
+"photo":"tree1",
+"tags":["General", "Soul Care", "Pod Journey"],
+"scrips":[]
+},
+
+
+{        
+"id": "celebration",
+"topicID" : "Journey Celebration",
+"name": "Journey Celebration",
+"available": true,
+"keywords": "",
+"subtitle": "Look Back & Next Steps",
+"summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
+"explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
+"photo": "fireworks",
+"tags": ["End", "Pod Journey"],
+"scrips":[]
+},
 
 
 {
@@ -297,23 +353,21 @@
 },
 
 {
-"id":"soulcare",
-"topicID":"Soul Care",
-"name":"Soul Care",
-"available":true,
-"keywords":"finding God in your life circumstances",
-"subtitle":"Finding God in Your Life Circumstances",
-"summary":"Use this topic for a conversation about any situation in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
-"explores":["Where is God in my circumstances?", "What does it look like to follow Jesus in my situation?", "How is the Holy Spirit leading me in this season?"],
-"photo":"tree1",
-"tags":["General", "Soul Care"],
+"id": "coachTraining",
+"topicID" : "Coach Training",
+"name": "Coach Training",
+"available": false,
+"keywords": "learning to help others grow spiritually using the app",
+"subtitle": "Helping Others Grow Spiritually",
+"summary": "Get orientated to the app and to what it looks like to help others grow spiritually in a relational, Spirit-led, action-oriented way.",
+"explores": ["How does the app work", "What does good coaching or spiritual friendship look like?"],
+"photo": "loveyourlife",
+"tags": ["Coaching"],
 "scrips":[]
 },
 
-
-
 {
-"id": "topic23",
+"id": "coachConnect",
 "topicID" : "Coach Connect",
 "name": "Coach Connect",
 "available": false,
@@ -323,20 +377,6 @@
 "explores": ["What is God doing in your pods?", "How can your pod support you?"],
 "photo": "loveyourlife",
 "tags": ["Coaching"],
-"scrips":[]
-},
-
-{        
-"id": "celebration",
-"topicID" : "Celebration",
-"name": "Celebration",
-"available": true,
-"keywords": "",
-"subtitle": "Look Back & Next Steps",
-"summary": "In this final meeting of this journey, celebrate what you've been through, and decide what's next.",
-"explores": ["What's changed?", "What did God do?", "Where do we want to go from here?"],
-"photo": "fireworks",
-"tags": ["End"],
 "scrips":[]
 }
 
