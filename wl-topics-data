@@ -297,16 +297,16 @@
 },
 
 {
-"id":"general",
-"topicID":"General",
-"name":"Any Situation",
+"id":"soulcare",
+"topicID":"Soul Care",
+"name":"Soul Care",
 "available":true,
 "keywords":"finding God in your life circumstances",
 "subtitle":"Finding God in Your Life Circumstances",
 "summary":"Use this topic for a conversation about any situation in the lives of your group members, rather than one of the twenty basic topics. The Scripture options help you listen to God, no matter what circumstance you discuss.",
 "explores":["Where is God in my circumstances?", "What does it look like to follow Jesus in my situation?", "How is the Holy Spirit leading me in this season?"],
 "photo":"tree1",
-"tags":["General"],
+"tags":["General", "Soul Care"],
 "scrips":[]
 },
 
