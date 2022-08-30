@@ -4,16 +4,18 @@
 "id":"convoNextStepsInfo",
 "contents":[
 "Convos are sorted by date. If you've dated your convos, your next convo is at the top.",
+"",
 "NEXT STEPS",
-"To get ready for your next meetup, do the next steps based on which convo type it is:",
-"Starter - no next steps",
-"Life Topic convo - add a backstory entry.",
-"Life Topic followup - try your action step, and add a God story entry.",
-"Any Scripture - enter the Scripture reference into the convo.",
-"Soul Care - add a situation entry.",
-"Celebration - look over your Photo Journal and note any insights.",
+"To get ready for your next meetup, here are the next steps by convo type:",
+"Starter Convo - no next steps",
+"Life Topic Convo - add a backstory entry.",
+"Life Topic Followup - try your action step, and add a God story entry.",
+"Any Scripture Convo - enter the Scripture reference into the convo.",
+"Soul Care Convo - add a situation entry.",
+"Celebration Convo - look over your Photo Journal and note any insights.",
+"",
 "NEXT STEPS ICON",
-"Wherever you see the green man icon shown below, tap it to see next steps."
+"Wherever you see the green man icon (shown below), tap to see next steps."
 ],
 "tags":["General"]
 },
