@@ -3,8 +3,9 @@
 {
 "id":"convoNextStepsInfo",
 "contents":[
-"Convos are sorted by date. If you've dated your convos, your next one should be first.",
-"NEXT STEPS BY CONVO TYPE",
+"Convos are sorted by date. If you've dated your convos, the next one is listed first.",
+"NEXT STEPS",
+"To get ready for your next meetup, do the next steps based on which convo type it is:",
 "Starter - no next steps",
 "Life Topic convo - add a backstory entry.",
 "Life Topic followup - try your action step, and add a God story entry.",
