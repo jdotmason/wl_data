@@ -1,9 +1,75 @@
 [
+
 {
 "id":"backstory",
 "name":"Add Backstory",
 "subtitle":"A snapshot of your experience",
 "icon":"star",
 "tags":[]
+},
+
+{
+"id":"pod connect",
+"name":"Pod Connect",
+"subtitle":"Greet & share stories",
+"icon":"star",
+"tags":[]
+},
+
+{
+"id":"god connect",
+"name":"God Connect",
+"subtitle":"Meditate on God's presence",
+"icon":"star",
+"tags":[]
+},
+
+{
+"id":"word connect",
+"name":"Word Connect",
+"subtitle":"Relational Bible Reading",
+"icon":"star",
+"tags":[]
+},
+
+{
+"id":"pick action",
+"name":"Pick Action",
+"subtitle":"Listen to the Holy Spirit and Choose an Action Step",
+"icon":"star",
+"tags":[]
+},
+
+{
+"id":"pray and close",
+"name":"Pray & Close",
+"subtitle":"Take prayer requests, pray, and agree on next steps.",
+"icon":"star",
+"tags":[]
+},
+
+{
+"id":"troubleshoot",
+"name":"Troubleshoot",
+"subtitle":"Discuss obstacles or concerns about your actions.",
+"icon":"star",
+"tags":[]
+},
+
+{
+"id":"go deeper",
+"name":"Go Deeper",
+"subtitle":"Explore your stories or actions and your relationship with God.",
+"icon":"star",
+"tags":[]
+},
+
+{
+"id":"speak into my life",
+"name":"Speak Into My Life",
+"subtitle":"Ask the pod to share insights about your spiritual journey.",
+"icon":"star",
+"tags":[]
 }
+
 ]
