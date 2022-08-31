@@ -97,6 +97,14 @@
 },
 
 {
+"id":"add insight",
+"name":"Add Insight",
+"subtitle":"Capture an insight about God or your spiritual life.",
+"icon":"lightbulb.fill",
+"tags":[]
+},
+
+{
 "id":"pray and close",
 "name":"Pray & Close",
 "subtitle":"Pray for each other and agree on next steps.",
