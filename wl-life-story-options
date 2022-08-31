@@ -69,7 +69,7 @@
 "name":"Share God Stories",
 "subtitle":"Share what happened from your action.",
 "icon":"person.fill.viewfinder",
-"tags":[]
+"tags":["after pick action"]
 },
 
 {
@@ -101,7 +101,7 @@
 "name":"Add Insight",
 "subtitle":"Capture an insight about God or your spiritual life.",
 "icon":"lightbulb.fill",
-"tags":[]
+"tags":["after pick action"]
 },
 
 {
