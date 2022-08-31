@@ -41,11 +41,11 @@
 },
 
 {
-"id":"pray and close",
-"name":"Pray & Close",
-"subtitle":"Take prayer requests, pray, and agree on next steps.",
+"id":"do action",
+"name":"Do Action",
+"subtitle":"Try your action and add a God Story",
 "icon":"star",
-"tags":[]
+"tags":["after pick action"]
 },
 
 {
@@ -53,7 +53,7 @@
 "name":"Troubleshoot",
 "subtitle":"Discuss obstacles or concerns about your actions.",
 "icon":"star",
-"tags":[]
+"tags":["after pick action"]
 },
 
 {
@@ -61,13 +61,21 @@
 "name":"Go Deeper",
 "subtitle":"Explore your stories or actions and your relationship with God.",
 "icon":"star",
-"tags":[]
+"tags":["after pick action"]
 },
 
 {
 "id":"speak into my life",
 "name":"Speak Into My Life",
 "subtitle":"Ask the pod to share insights about your spiritual journey.",
+"icon":"star",
+"tags":["after pick action"]
+},
+
+{
+"id":"pray and close",
+"name":"Pray & Close",
+"subtitle":"Take prayer requests, pray, and agree on next steps.",
 "icon":"star",
 "tags":[]
 }
