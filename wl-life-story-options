@@ -11,15 +11,15 @@
 {
 "id":"pod connect",
 "name":"Pod Connect",
-"subtitle":"Greet & share stories",
+"subtitle":"Greet & share prayer updates",
 "icon":"circle.grid.2x2.fill",
 "tags":[]
 },
 
 {
 "id":"share stories",
-"name":"Share Stories",
-"subtitle":"Share Backstories or God Stories",
+"name":"Share Backstories",
+"subtitle":"Share a snapshot of your experience",
 "icon":"person.fill.viewfinder",
 "tags":[]
 },
@@ -62,6 +62,14 @@
 "subtitle":"What happened when you tried your action?",
 "icon":"sparkles.square.filled.on.square",
 "tags":["after pick action"]
+},
+
+{
+"id":"share God stories",
+"name":"Share God Stories",
+"subtitle":"Share what happened from your action.",
+"icon":"person.fill.viewfinder",
+"tags":[]
 },
 
 {
