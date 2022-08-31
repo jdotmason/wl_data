@@ -35,7 +35,7 @@
 {
 "id":"pick action",
 "name":"Pick Action",
-"subtitle":"Listen to the Holy Spirit and Choose an Action Step",
+"subtitle":"Prayerfully Choose an Action Step",
 "icon":"star",
 "tags":[]
 },
@@ -51,7 +51,7 @@
 {
 "id":"troubleshoot",
 "name":"Troubleshoot",
-"subtitle":"Discuss obstacles or concerns about your actions.",
+"subtitle":"Discuss obstacles or concerns about an action step.",
 "icon":"star",
 "tags":["after pick action"]
 },
@@ -59,7 +59,7 @@
 {
 "id":"go deeper",
 "name":"Go Deeper",
-"subtitle":"Explore your stories or actions and your relationship with God.",
+"subtitle":"Explore your stories and relationship with God.",
 "icon":"star",
 "tags":["after pick action"]
 },
@@ -67,7 +67,7 @@
 {
 "id":"speak into my life",
 "name":"Speak Into My Life",
-"subtitle":"Ask the pod to share insights about your spiritual journey.",
+"subtitle":"Listen to the pod's insights on your spiritual journey.",
 "icon":"star",
 "tags":["after pick action"]
 },
@@ -75,7 +75,7 @@
 {
 "id":"pray and close",
 "name":"Pray & Close",
-"subtitle":"Take prayer requests, pray, and agree on next steps.",
+"subtitle":"Pray for each other and agree on next steps.",
 "icon":"star",
 "tags":[]
 }
