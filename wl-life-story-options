@@ -4,7 +4,7 @@
 "id":"backstory",
 "name":"Add Backstory",
 "subtitle":"A snapshot of your experience",
-"icon":"star",
+"icon":"person.icloud.fill",
 "tags":[]
 },
 
@@ -12,7 +12,15 @@
 "id":"pod connect",
 "name":"Pod Connect",
 "subtitle":"Greet & share stories",
-"icon":"star",
+"icon":"circle.grid.2x2.fill",
+"tags":[]
+},
+
+{
+"id":"share stories",
+"name":"Share Stories",
+"subtitle":"Share Backstories or God Stories",
+"icon":"person.fill.viewfinder",
 "tags":[]
 },
 
@@ -20,15 +28,15 @@
 "id":"god connect",
 "name":"God Connect",
 "subtitle":"Meditate on God's presence",
-"icon":"star",
+"icon":"sparkle",
 "tags":[]
 },
 
 {
 "id":"word connect",
-"name":"Word Connect",
+"name":"Enter God's Story",
 "subtitle":"Relational Bible Reading",
-"icon":"star",
+"icon":"sparkle.magnifyingglass",
 "tags":[]
 },
 
@@ -36,7 +44,7 @@
 "id":"pick action",
 "name":"Pick Action",
 "subtitle":"Prayerfully Choose an Action Step",
-"icon":"star",
+"icon":"hand.point.up.braille.fill",
 "tags":[]
 },
 
@@ -44,7 +52,7 @@
 "id":"do action",
 "name":"Do Action",
 "subtitle":"Try your action and add a God Story",
-"icon":"star",
+"icon":"figure.walk",
 "tags":["after pick action"]
 },
 
@@ -52,7 +60,7 @@
 "id":"troubleshoot",
 "name":"Troubleshoot",
 "subtitle":"Discuss obstacles or concerns about an action step.",
-"icon":"star",
+"icon":"umbrella.fill",
 "tags":["after pick action"]
 },
 
@@ -60,7 +68,7 @@
 "id":"go deeper",
 "name":"Go Deeper",
 "subtitle":"Explore your stories and relationship with God.",
-"icon":"star",
+"icon":"graduationcap.fill",
 "tags":["after pick action"]
 },
 
@@ -68,7 +76,7 @@
 "id":"speak into my life",
 "name":"Speak Into My Life",
 "subtitle":"Listen to the pod's insights on your spiritual journey.",
-"icon":"star",
+"icon":"person.2.wave.2.fill",
 "tags":["after pick action"]
 },
 
@@ -76,7 +84,7 @@
 "id":"pray and close",
 "name":"Pray & Close",
 "subtitle":"Pray for each other and agree on next steps.",
-"icon":"star",
+"icon":"hands.sparkles.fill",
 "tags":[]
 }
 
