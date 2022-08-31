@@ -57,6 +57,14 @@
 },
 
 {
+"id":"add God story",
+"name":"Add God Story",
+"subtitle":"What happened when you tried your action?",
+"icon":"sparkles.square.filled.on.square",
+"tags":["after pick action"]
+},
+
+{
 "id":"troubleshoot",
 "name":"Troubleshoot",
 "subtitle":"Discuss obstacles or concerns about an action step.",
