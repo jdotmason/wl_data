@@ -236,6 +236,47 @@
   
   "tags": []
   
+},
+
+{
+  "id":"inner healing prayer",
+  
+  "name":"Inner Healing Prayer",
+  
+  "photo":"path",
+  
+  "sections":[
+        {
+        "id":"inner healing prayer summary",
+        "name":"Summary",
+        "contents": [
+          "Inner healing prayer helps you welcome God into broken places in your past, to let to Holy Spirit do a new work today"
+        ],
+        "links":[],
+        "tags":["coach", "training"]
+        },
+        {
+        "id":"major concern",
+        "name":"Major Concern",
+        "contents": [
+          "How would you describe the place of brokenness?",
+          "How are you defining life and death?",
+          "When is the first time you remember an experience like that?",
+          "Think back on that experience. Describe the sensations, the people, and your feelings.",
+          "Now think about where God was in that moment?",
+          "If God felt present to you then, what did God seem like to you?",
+          "God is with us now, looking back on that event with us. How does God seem to you now? What is the expreission on God's face?",
+          "Listen for anything God's Spirit may be saying to you now out of his character."
+        ],
+        "links":[],
+        "tags":[]
+        }
+    ],
+  
+  "links":[],
+  
+  "tags": ["soul care option"]
+  
 }
 
 ]
