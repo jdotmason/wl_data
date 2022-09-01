@@ -76,11 +76,17 @@
 },
 
 {
+"id":"podConnectInfo",
+"contents":[
+"Start your meetup by sharing highs and lows from the week and any answered prayer from last time."
+],
+"tags":["backstory"]
+},
+
+{
 "id":"shareBackstoryInfo",
 "contents":[
-"Start you convo by sharing highs and lows from the week and any answered prayer from last time.",
-
-"Then share backstories, a snapshot of your past experience with the topic, a starting point for conversation.",
+"Share backstories, a snapshot of your past experience with the topic, as a starting point for conversation.",
 
 "If you've added a Backstory entry to your Photo Journal, show and tell about that. Otherwise, you can call to mind a memory, image, person, or experience related to the topic.",
 
