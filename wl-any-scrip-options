@@ -1,3 +1,115 @@
 [
 
+{
+"id":"backstory",
+"name":"Add Backstory",
+"subtitle":"A snapshot of your experience",
+"icon":"person.icloud.fill",
+"tags":[]
+},
+
+{
+"id":"pod connect",
+"name":"Pod Connect",
+"subtitle":"Greet & share prayer updates",
+"icon":"circle.grid.2x2.fill",
+"tags":[]
+},
+
+{
+"id":"share backstories",
+"name":"Share Backstories",
+"subtitle":"Share a snapshot of your experience",
+"icon":"person.fill.viewfinder",
+"tags":[]
+},
+
+{
+"id":"God connect",
+"name":"God Connect",
+"subtitle":"Meditate on God's presence",
+"icon":"sparkle",
+"tags":[]
+},
+
+{
+"id":"word connect",
+"name":"Enter God's Story",
+"subtitle":"Relational Bible Reading",
+"icon":"sparkle.magnifyingglass",
+"tags":[]
+},
+
+{
+"id":"pick action",
+"name":"Pick Action",
+"subtitle":"Prayerfully Choose an Action Step",
+"icon":"hand.point.up.braille.fill",
+"tags":[]
+},
+
+{
+"id":"do action",
+"name":"Do Action",
+"subtitle":"Try your action and add a God Story",
+"icon":"figure.walk",
+"tags":["after pick action"]
+},
+
+{
+"id":"add God story",
+"name":"Add God Story",
+"subtitle":"What happened when you tried your action?",
+"icon":"sparkles.square.filled.on.square",
+"tags":["after pick action"]
+},
+
+{
+"id":"share God stories",
+"name":"Share God Stories",
+"subtitle":"Share what happened from your action.",
+"icon":"person.fill.viewfinder",
+"tags":["after pick action"]
+},
+
+{
+"id":"troubleshoot",
+"name":"Troubleshoot",
+"subtitle":"Discuss obstacles or concerns about an action step.",
+"icon":"umbrella.fill",
+"tags":["after pick action"]
+},
+
+{
+"id":"go deeper",
+"name":"Go Deeper",
+"subtitle":"Explore your stories and relationship with God.",
+"icon":"graduationcap.fill",
+"tags":["after pick action"]
+},
+
+{
+"id":"speak into my life",
+"name":"Speak Into My Life",
+"subtitle":"Listen to the pod's insights on your spiritual journey.",
+"icon":"person.2.wave.2.fill",
+"tags":["after pick action"]
+},
+
+{
+"id":"add insight",
+"name":"Add Insight",
+"subtitle":"Capture an insight about God or your spiritual life.",
+"icon":"lightbulb.fill",
+"tags":["after pick action"]
+},
+
+{
+"id":"pray & close",
+"name":"Pray & Close",
+"subtitle":"Pray for each other and agree on next steps.",
+"icon":"hands.sparkles.fill",
+"tags":[]
+}
+
 ]
