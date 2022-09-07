@@ -35,7 +35,7 @@
 {
 "id":"word connect",
 "name":"Enter God's Story",
-"subtitle":"Relational Bible Reading",
+"subtitle":"Relational Bible reading",
 "icon":"sparkle.magnifyingglass",
 "tags":[]
 },
@@ -43,7 +43,7 @@
 {
 "id":"pick action",
 "name":"Pick Action",
-"subtitle":"Prayerfully Choose an Action Step",
+"subtitle":"Prayerfully choose an action step",
 "icon":"hand.point.up.braille.fill",
 "tags":[]
 },
