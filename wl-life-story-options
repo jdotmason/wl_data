@@ -53,7 +53,7 @@
 "name":"Do Action",
 "subtitle":"Try your action and add a God Story",
 "icon":"figure.walk",
-"tags":["after pick action", "do and see"]
+"tags":["do and see"]
 },
 
 {
@@ -61,7 +61,7 @@
 "name":"Add God Story",
 "subtitle":"What happened when you tried your action?",
 "icon":"sparkles.square.filled.on.square",
-"tags":["after pick action", "do and see"]
+"tags":["do and see"]
 },
 
 {
