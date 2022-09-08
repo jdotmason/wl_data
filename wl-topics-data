@@ -38,7 +38,21 @@
 "summary":"These convo guides lead you through an experience of sharing your backstories, meditation, relational Bible reading, action, prayer, and followup conversations.",
 "explores":[""],
 "photo":"signpost",
-"tags":["Start", "Pod Journey"],
+"tags":["Pod Journey"],
+"scrips":[]
+},
+
+{
+"id":"anyScripture",
+"topicID":"Scripture Companion",
+"name":"Scripture Companion",
+"available":true,
+"keywords":"",
+"subtitle":"Story & Actions for Any Scripture",
+"summary":"Us this convo if you have another Scripture reading plan you want to use with the app.",
+"explores":[""],
+"photo":"signpost",
+"tags":["Any", "Pod Journey"],
 "scrips":[]
 },
 
