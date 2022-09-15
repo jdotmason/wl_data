@@ -1,6 +1,6 @@
 	[{
-		"book": "Genesis",
-		"chapters": [{
+		"bookName": "Genesis",
+		"verses": [{
 				"1": "31"
 			},
 			{
