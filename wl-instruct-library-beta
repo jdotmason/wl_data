@@ -57,6 +57,13 @@
 "tags":[""]
 },
 
+{
+"id":"editIdeaWarningMessage",
+"contents":[
+"Note: You're editing an action idea. Your edits will show up in future instances of this action when you +Add To Do to make a new action based on this idea. For any past times you did this action, the details will not change."
+],
+"tags":["Action"]
+},
 
 {
 "id":"starterNextOurPod",
